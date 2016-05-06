@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "bootstrap-sass": "^3.3.6",
+    "flickrapi": "^0.4.2",
     "lodash": "^4.11.2",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
