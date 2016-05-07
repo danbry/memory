@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Search from './search';
-import Result from './result';
+import Search from '../containers/search';
+import Result from '../containers/result';
 
 class App extends Component {
   render() {
