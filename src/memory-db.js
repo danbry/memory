@@ -1,7 +1,44 @@
-export default [{
+export default [
+    {
 	"code": "800",
 	"image": "GuMMisnodd"
 }, {
+        "code": "1",
+        "image": "Näsa"
+    },
+    {
+        "code": "2",
+        "image": "Hår"
+    },
+    {
+        "code": "3",
+        "image": "Bulle"
+    },
+    {
+        "code": "4",
+        "image": "Val"
+    },
+    {
+        "code": "5",
+        "image": "Räv"
+    },
+    {
+        "code": "6",
+        "image": "yXa"
+    },
+    {
+        "code": "7",
+        "image": "Dörr"
+    },
+    {
+        "code": "8",
+        "image": "Lök"
+    },
+    {
+        "code": "9",
+        "image": "Cykel"
+    },
+    {
 	"code": "801",
 	"image": "GyMNastikpall"
 }, {

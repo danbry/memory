@@ -15,7 +15,6 @@ class Result extends Component {
       this.props.fetchImage(nextProps.images.item.image);
       return true;
     } else {
-      console.log("equal");
       return false;
     }
   }
@@ -32,10 +31,19 @@ class Result extends Component {
 
   render() {
     return (
-      <div>
-        <h5>{this.props.images.item.image}</h5>
-        {this.renderImage()}
-      </div>
+        <div className="panel panel-success">
+            <div className="panel-heading">Result</div>
+            <div className="panel-body">
+                 <div className="row">
+                    <div className="col-md-2 col-xs-4"><h4>Image name</h4></div>
+                    <div className="col-md-10 col-xs-8"><h4>{this.props.images.item.image}</h4></div>
+                </div>
+                <div className="row">
+                    <div className="col-md-2 col-xs-4"><h4>Image</h4></div>
+                    <div className="col-md-10 col-xs-8">{this.renderImage()}</div>
+                </div>
+            </div>
+        </div>
     )
   }
 
