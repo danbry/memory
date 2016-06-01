@@ -1,3338 +1,3332 @@
-export default [
-    {
-	"code": "800",
-	"image": "GuMMisnodd"
-}, {
-        "code": "1",
-        "image": "Näsa"
-    },
-    {
-        "code": "2",
-        "image": "Hår"
-    },
-    {
-        "code": "3",
-        "image": "Bulle"
-    },
-    {
-        "code": "4",
-        "image": "Val"
-    },
-    {
-        "code": "5",
-        "image": "Räv"
-    },
-    {
-        "code": "6",
-        "image": "yXa"
-    },
-    {
-        "code": "7",
-        "image": "Dörr"
-    },
-    {
-        "code": "8",
-        "image": "Lök"
-    },
-    {
-        "code": "9",
-        "image": "Cykel"
-    },
-    {
-	"code": "801",
-	"image": "GyMNastikpall"
-}, {
-	"code": "802",
-	"image": "LiMTub"
-}, {
-	"code": "803",
-	"image": "LiMpa"
-}, {
-	"code": "804",
-	"image": "Grön"
+export default
+[{
+    "code": "0",
+    "image": " Mask"
 }, {
-	"code": "805",
-	"image": "Gul"
+    "code": "1",
+    "image": " Näsa"
 }, {
-	"code": "806",
-	"image": "LaMPa"
+    "code": "2",
+    "image": " Hår"
 }, {
-	"code": "807",
-	"image": "LiMoSin"
+    "code": "3",
+    "image": " Bulle"
 }, {
-	"code": "808",
-	"image": "Gammal"
+    "code": "4",
+    "image": " Val"
 }, {
-	"code": "809",
-	"image": "GaMeCube"
+    "code": "5",
+    "image": " Räv"
 }, {
-	"code": "810",
-	"image": "GNoM"
+    "code": "6",
+    "image": " yXa"
 }, {
-	"code": "811",
-	"image": "LöNNsirapflaska"
+    "code": "7",
+    "image": " Dörr"
 }, {
-	"code": "812",
-	"image": "yaGi-aNTenn"
+    "code": "8",
+    "image": " Lök"
 }, {
-	"code": "813",
-	"image": "GuNgstol"
+    "code": "800",
+    "image": " GuMMisnodd"
 }, {
-	"code": "814",
-	"image": "LuNchlåda"
+    "code": "9",
+    "image": " Cykel"
 }, {
-	"code": "815",
-	"image": "Linneduk"
+    "code": "801",
+    "image": " GyMNastikpall"
 }, {
-	"code": "816",
-	"image": "GoNdol"
+    "code": "802",
+    "image": " LiMTub"
 }, {
-	"code": "817",
-	"image": "LäNStol"
+    "code": "803",
+    "image": " LiMpa av Brons"
 }, {
-	"code": "818",
-	"image": "GuNGa"
+    "code": "804",
+    "image": " Grön oMKopplare"
 }, {
-	"code": "819",
-	"image": "GeNerator"
+    "code": "805",
+    "image": " Gul MäRkpenna"
 }, {
-	"code": "820",
-	"image": "LiTiuMbatteri"
+    "code": "806",
+    "image": " LaMPa"
 }, {
-	"code": "821",
-	"image": "LuTa"
+    "code": "807",
+    "image": " LiMoSin"
 }, {
-	"code": "822",
-	"image": "eLuTTag"
+    "code": "808",
+    "image": " Gammal aMiGadator"
 }, {
-	"code": "823",
-	"image": "GaTuBrunn"
+    "code": "809",
+    "image": " GaMeCube"
 }, {
-	"code": "824",
-	"image": "GoTiKskulptur"
+    "code": "810",
+    "image": " GNoM"
 }, {
-	"code": "825",
-	"image": "Genomskuren"
+    "code": "811",
+    "image": " LöNNsirapflaska"
 }, {
-	"code": "826",
-	"image": "LaTeXmask"
+    "code": "812",
+    "image": " yaGi-aNTenn"
 }, {
-	"code": "827",
-	"image": "GaTSten"
+    "code": "813",
+    "image": " GuNgstol av Brons"
 }, {
-	"code": "828",
-	"image": "LiToGrafi"
+    "code": "814",
+    "image": " LuNchlåda i Kartong"
 }, {
-	"code": "829",
-	"image": "Gyllene"
+    "code": "815",
+    "image": " Linneduk på Rulle"
 }, {
-	"code": "830",
-	"image": "aLBuM"
+    "code": "816",
+    "image": " GoNdol av Järn"
 }, {
-	"code": "831",
-	"image": "Grön"
+    "code": "817",
+    "image": " LäNStol"
 }, {
-	"code": "832",
-	"image": "aLBaTross"
+    "code": "818",
+    "image": " GuNGa"
 }, {
-	"code": "833",
-	"image": "LaBrador"
+    "code": "819",
+    "image": " GeNerator för Cykel"
 }, {
-	"code": "834",
-	"image": "Gigantisk"
+    "code": "820",
+    "image": " LiTiuMbatteri"
 }, {
-	"code": "835",
-	"image": "LaByRintspel"
+    "code": "821",
+    "image": " LuTa i Neongrönt"
 }, {
-	"code": "836",
-	"image": "BJörnfälla"
+    "code": "822",
+    "image": " eLuTTag"
 }, {
-	"code": "837",
-	"image": "Lila"
+    "code": "823",
+    "image": " GaTuBrunn"
 }, {
-	"code": "838",
-	"image": "GoBeLäng"
+    "code": "824",
+    "image": " GoTiKskulptur"
 }, {
-	"code": "839",
-	"image": "Gul"
+    "code": "825",
+    "image": " Genomskuren TåRtbit"
 }, {
-	"code": "840",
-	"image": "LoKoMotiv"
+    "code": "826",
+    "image": " LaTeXmask"
 }, {
-	"code": "841",
-	"image": "LaKaN"
+    "code": "827",
+    "image": " GaTSten"
 }, {
-	"code": "600",
-	"image": "PoMMes"
+    "code": "828",
+    "image": " LiToGrafi"
 }, {
-	"code": "842",
-	"image": "LyKTa"
+    "code": "829",
+    "image": " Gyllene TaCka"
 }, {
-	"code": "601",
-	"image": "eXaMeNshatt"
+    "code": "830",
+    "image": " aLBuM"
 }, {
-	"code": "843",
-	"image": "LiVBoj"
+    "code": "831",
+    "image": " Grön BäNk"
 }, {
-	"code": "602",
-	"image": "JäMTlandskåsa"
+    "code": "832",
+    "image": " aLBaTross"
 }, {
-	"code": "844",
-	"image": "LiKKista"
+    "code": "833",
+    "image": " LaBrador i Byxor"
 }, {
-	"code": "603",
-	"image": "JuMBo"
+    "code": "834",
+    "image": " Gigantisk BuKett"
 }, {
-	"code": "845",
-	"image": "LaKRitsgodis"
+    "code": "835",
+    "image": " LaByRintspel"
 }, {
-	"code": "604",
-	"image": "PuMp"
+    "code": "836",
+    "image": " BJörnfälla av Järn"
 }, {
-	"code": "846",
-	"image": "LeKsak"
+    "code": "837",
+    "image": " Lila BaStuba"
 }, {
-	"code": "605",
-	"image": "Pampig"
+    "code": "838",
+    "image": " GoBeLäng"
 }, {
-	"code": "847",
-	"image": "eLViSp"
+    "code": "839",
+    "image": " Gul BaCkstuga"
 }, {
-	"code": "606",
-	"image": "Pimpinett"
+    "code": "840",
+    "image": " LoKoMotiv"
 }, {
-	"code": "848",
-	"image": "GeVaLiapaket"
+    "code": "841",
+    "image": " LaKaN"
 }, {
-	"code": "607",
-	"image": "PoMPeripossanäsa"
+    "code": "600",
+    "image": " PoMMes Frites"
 }, {
-	"code": "849",
-	"image": "LaVett"
+    "code": "842",
+    "image": " LyKTa"
 }, {
-	"code": "608",
-	"image": "Prydlig"
+    "code": "601",
+    "image": " eXaMeNshatt"
 }, {
-	"code": "609",
-	"image": "JaMaiCamössa"
+    "code": "843",
+    "image": " LiVBoj"
 }, {
-	"code": "850",
-	"image": "GRaMmofon"
+    "code": "602",
+    "image": " JäMTlandskåsa"
 }, {
-	"code": "851",
-	"image": "GRiNd"
+    "code": "844",
+    "image": " LiKKista"
 }, {
-	"code": "610",
-	"image": "PeNnfodral"
+    "code": "603",
+    "image": " JuMBo (känd elefant)"
 }, {
-	"code": "852",
-	"image": "GRöT"
+    "code": "845",
+    "image": " LaKRitsgodis"
 }, {
-	"code": "611",
-	"image": "PiNNe"
+    "code": "604",
+    "image": " PuMp för Vatten"
 }, {
-	"code": "853",
-	"image": "GRen"
+    "code": "846",
+    "image": " LeKsak i Plast"
 }, {
-	"code": "612",
-	"image": "JoiNT"
+    "code": "605",
+    "image": " Pampig MaRionett"
 }, {
-	"code": "854",
-	"image": "GuRKa"
+    "code": "847",
+    "image": " eLViSp"
 }, {
-	"code": "613",
-	"image": "Pumpad"
+    "code": "606",
+    "image": " Pimpinett MaSkros"
 }, {
-	"code": "855",
-	"image": "GaFFel"
+    "code": "848",
+    "image": " GeVaLiapaket"
 }, {
-	"code": "614",
-	"image": "PuNKfrisyr"
+    "code": "607",
+    "image": " PoMPeripossanäsa"
 }, {
-	"code": "856",
-	"image": "GRiPtång"
+    "code": "849",
+    "image": " LaVett i Choklad"
 }, {
-	"code": "615",
-	"image": "PaNFlöjt"
+    "code": "608",
+    "image": " Prydlig aMuLett"
 }, {
-	"code": "857",
-	"image": "GRaDskiva"
+    "code": "609",
+    "image": " JaMaiCamössa (rastafari)"
 }, {
-	"code": "616",
-	"image": "Polerad"
+    "code": "850",
+    "image": " GRaMmofon"
 }, {
-	"code": "858",
-	"image": "GRiLl"
+    "code": "851",
+    "image": " GRiNd"
 }, {
-	"code": "617",
-	"image": "PeNSel"
+    "code": "610",
+    "image": " PeNnfodral i Mjukt tyg"
 }, {
-	"code": "859",
-	"image": "GRapefrukt"
+    "code": "852",
+    "image": " GRöT"
 }, {
-	"code": "618",
-	"image": "PiNGisracket"
+    "code": "611",
+    "image": " PiNNe"
 }, {
-	"code": "619",
-	"image": "PiNCett"
+    "code": "853",
+    "image": " GRen av Brons"
 }, {
-	"code": "860",
-	"image": "LaPptäcke"
+    "code": "612",
+    "image": " JoiNT"
 }, {
-	"code": "861",
-	"image": "LJuNg"
+    "code": "854",
+    "image": " GuRKa"
 }, {
-	"code": "620",
-	"image": "PeTMoj"
+    "code": "613",
+    "image": " Pumpad aNaBola-arm"
 }, {
-	"code": "862",
-	"image": "LaPTop"
+    "code": "855",
+    "image": " GaFFel"
 }, {
-	"code": "621",
-	"image": "iPHoNe"
+    "code": "614",
+    "image": " PuNKfrisyr (tuppkam)"
 }, {
-	"code": "863",
-	"image": "GPs-navigator"
+    "code": "856",
+    "image": " GRiPtång"
 }, {
-	"code": "622",
-	"image": "PoTaTis"
+    "code": "615",
+    "image": " PaNFlöjt"
 }, {
-	"code": "864",
-	"image": "LeXiKon"
+    "code": "857",
+    "image": " GRaDskiva"
 }, {
-	"code": "623",
-	"image": "Putsad"
+    "code": "616",
+    "image": " Polerad oNyX"
 }, {
-	"code": "865",
-	"image": "eLiXiR"
+    "code": "858",
+    "image": " GRiLl"
 }, {
-	"code": "624",
-	"image": "oXHuVud"
+    "code": "617",
+    "image": " PeNSel"
 }, {
-	"code": "866",
-	"image": "LuPP"
+    "code": "859",
+    "image": " GRapefrukt av Choklad"
 }, {
-	"code": "625",
-	"image": "PaTRon"
+    "code": "618",
+    "image": " PiNGisracket"
 }, {
-	"code": "867",
-	"image": "GiPS"
+    "code": "619",
+    "image": " PiNCett"
 }, {
-	"code": "626",
-	"image": "JeTPlan"
+    "code": "860",
+    "image": " LaPptäcke av Mjukt tyg"
 }, {
-	"code": "868",
-	"image": "LJuster"
+    "code": "861",
+    "image": " LJuNg"
 }, {
-	"code": "627",
-	"image": "PuTStrasa"
+    "code": "620",
+    "image": " PeTMoj"
 }, {
-	"code": "869",
-	"image": "LJusstake"
+    "code": "862",
+    "image": " LaPTop"
 }, {
-	"code": "628",
-	"image": "iP-TeLefon"
+    "code": "621",
+    "image": " iPHoNe"
 }, {
-	"code": "629",
-	"image": "Polerat"
+    "code": "863",
+    "image": " GPs-navigator för Bil"
 }, {
-	"code": "870",
-	"image": "GaSMask"
+    "code": "622",
+    "image": " PoTaTis"
 }, {
-	"code": "871",
-	"image": "Gul"
+    "code": "864",
+    "image": " LeXiKon"
 }, {
-	"code": "630",
-	"image": "Pressad"
+    "code": "623",
+    "image": " Putsad TuBa"
 }, {
-	"code": "872",
-	"image": "LaSTbil"
+    "code": "865",
+    "image": " eLiXiR"
 }, {
-	"code": "631",
-	"image": "Pump"
+    "code": "624",
+    "image": " oXHuVud"
 }, {
-	"code": "873",
-	"image": "öLStop"
+    "code": "866",
+    "image": " LuPP"
 }, {
-	"code": "632",
-	"image": "Polkagrisfärgad"
+    "code": "625",
+    "image": " PaTRon"
 }, {
-	"code": "874",
-	"image": "LöDKolv"
+    "code": "867",
+    "image": " GiPS"
 }, {
-	"code": "633",
-	"image": "Polerad"
+    "code": "626",
+    "image": " JeTPlan"
 }, {
-	"code": "875",
-	"image": "LySRör"
+    "code": "868",
+    "image": " LJuster av Gjutjärn"
 }, {
-	"code": "634",
-	"image": "Jättemjuk"
+    "code": "627",
+    "image": " PuTStrasa"
 }, {
-	"code": "876",
-	"image": "LåS"
+    "code": "869",
+    "image": " LJusstake i Choklad"
 }, {
-	"code": "635",
-	"image": "PuBeRtetsskägg"
+    "code": "628",
+    "image": " iP-TeLefon"
 }, {
-	"code": "877",
-	"image": "GoDiSråtta"
+    "code": "629",
+    "image": " Polerat TaCkjärn"
 }, {
-	"code": "636",
-	"image": "XBoX"
+    "code": "870",
+    "image": " GaSMask"
 }, {
-	"code": "878",
-	"image": "GaSoLtank"
+    "code": "871",
+    "image": " Gul SNöplog"
 }, {
-	"code": "637",
-	"image": "Prålig"
+    "code": "630",
+    "image": " Pressad BioMassa"
 }, {
-	"code": "879",
-	"image": "ALladdinask"
+    "code": "872",
+    "image": " LaSTbil"
 }, {
-	"code": "638",
-	"image": "Prydligt"
+    "code": "631",
+    "image": " Pump för BeNsin"
 }, {
-	"code": "639",
-	"image": "Jättestor"
+    "code": "873",
+    "image": " öLStop i Balsaträ"
 }, {
-	"code": "880",
-	"image": "GLoria"
+    "code": "632",
+    "image": " Polkagrisfärgad uBåT"
 }, {
-	"code": "881",
-	"image": "oLLoN"
+    "code": "874",
+    "image": " LöDKolv"
 }, {
-	"code": "640",
-	"image": "Justerad"
+    "code": "633",
+    "image": " Polerad aBBakonserv"
 }, {
-	"code": "882",
-	"image": "GeLéHallon"
+    "code": "875",
+    "image": " LySRör"
 }, {
-	"code": "641",
-	"image": "PiLeN"
+    "code": "634",
+    "image": " Jättemjuk BäVer"
 }, {
-	"code": "883",
-	"image": "LeGoBit"
+    "code": "876",
+    "image": " LåS av Järn"
 }, {
-	"code": "400",
-	"image": "KuMMin"
+    "code": "635",
+    "image": " PuBeRtetsskägg"
 }, {
-	"code": "642",
-	"image": "PaKeTeringsremmar"
+    "code": "877",
+    "image": " GoDiSråtta"
 }, {
-	"code": "884",
-	"image": "iGeLKott"
+    "code": "636",
+    "image": " XBoX"
 }, {
-	"code": "401",
-	"image": "KaMiN"
+    "code": "878",
+    "image": " GaSoLtank"
 }, {
-	"code": "643",
-	"image": "Pampig"
+    "code": "637",
+    "image": " Prålig BäDdsoffa"
 }, {
-	"code": "885",
-	"image": "GoLFklubba"
+    "code": "879",
+    "image": " ALladdinask med Choklad"
 }, {
-	"code": "402",
-	"image": "KoMeT"
+    "code": "638",
+    "image": " Prydligt BäLte"
 }, {
-	"code": "644",
-	"image": "JoKKmokkmössa"
+    "code": "639",
+    "image": " Jättestor BoCk (för snickeri)"
 }, {
-	"code": "886",
-	"image": "LiLJekonvalj"
+    "code": "880",
+    "image": " GLoria i Mässing"
 }, {
-	"code": "403",
-	"image": "Klassisk"
+    "code": "881",
+    "image": " oLLoN"
 }, {
-	"code": "645",
-	"image": "PuKoR"
+    "code": "640",
+    "image": " Justerad KoMpass"
 }, {
-	"code": "887",
-	"image": "GLaSs"
+    "code": "882",
+    "image": " GeLéHallon"
 }, {
-	"code": "404",
-	"image": "KeMiKaliedunk"
+    "code": "641",
+    "image": " PiLeN"
 }, {
-	"code": "646",
-	"image": "PeKPinne"
+    "code": "883",
+    "image": " LeGoBit"
 }, {
-	"code": "888",
-	"image": "uGGLa"
+    "code": "400",
+    "image": " KuMMin"
 }, {
-	"code": "405",
-	"image": "KaMFer"
+    "code": "642",
+    "image": " PaKeTeringsremmar"
 }, {
-	"code": "647",
-	"image": "PoKal"
+    "code": "884",
+    "image": " iGeLKott"
 }, {
-	"code": "889",
-	"image": "Glänsande"
+    "code": "401",
+    "image": " KaMiN"
 }, {
-	"code": "406",
-	"image": "ViMPel"
+    "code": "643",
+    "image": " Pampig ViBrafon"
 }, {
-	"code": "648",
-	"image": "Jättegammalt"
+    "code": "885",
+    "image": " GoLFklubba"
 }, {
-	"code": "407",
-	"image": "KaMel"
+    "code": "402",
+    "image": " KoMeT"
 }, {
-	"code": "649",
-	"image": "Påse"
+    "code": "644",
+    "image": " JoKKmokkmössa"
 }, {
-	"code": "408",
-	"image": "Krökt"
+    "code": "886",
+    "image": " LiLJekonvalj"
 }, {
-	"code": "409",
-	"image": "Knatte-MC"
+    "code": "403",
+    "image": " Klassisk MoBil"
 }, {
-	"code": "890",
-	"image": "LaCkhandske"
+    "code": "645",
+    "image": " PuKoR"
 }, {
-	"code": "891",
-	"image": "Liten"
+    "code": "887",
+    "image": " GLaSs"
 }, {
-	"code": "650",
-	"image": "PRoMenadkäpp"
+    "code": "404",
+    "image": " KeMiKaliedunk"
 }, {
-	"code": "892",
-	"image": "eL(CHocks)pistol"
+    "code": "646",
+    "image": " PeKPinne"
 }, {
-	"code": "651",
-	"image": "PRiNter"
+    "code": "888",
+    "image": " uGGLa"
 }, {
-	"code": "893",
-	"image": "LoCk"
+    "code": "405",
+    "image": " KaMFer"
 }, {
-	"code": "410",
-	"image": "Valfri"
+    "code": "647",
+    "image": " PoKal i Silver"
 }, {
-	"code": "652",
-	"image": "PoRTfölj"
+    "code": "889",
+    "image": " Glänsande LaCkskor"
 }, {
-	"code": "894",
-	"image": "LyCKohjul"
+    "code": "406",
+    "image": " ViMPel"
 }, {
-	"code": "411",
-	"image": "KaNNa"
+    "code": "648",
+    "image": " Jättegammalt VaGnshjul"
 }, {
-	"code": "653",
-	"image": "PaRaBolantenn"
+    "code": "407",
+    "image": " KaMel av Stål"
 }, {
-	"code": "895",
-	"image": "LäCka"
+    "code": "649",
+    "image": " Påse med ViCkstabletter"
 }, {
-	"code": "412",
-	"image": "VaNTe"
+    "code": "408",
+    "image": " Krökt MaGnet"
 }, {
-	"code": "654",
-	"image": "aPRiKos"
+    "code": "409",
+    "image": " Knatte-MC"
 }, {
-	"code": "896",
-	"image": "LaCknaftaflaska"
+    "code": "890",
+    "image": " LaCkhandske i Mjuklatex"
 }, {
-	"code": "413",
-	"image": "ViNBärsklase"
+    "code": "891",
+    "image": " Liten CeNtrifug"
 }, {
-	"code": "655",
-	"image": "PaRFymflaska"
+    "code": "650",
+    "image": " PRoMenadkäpp"
 }, {
-	"code": "897",
-	"image": "LCD-skärm"
+    "code": "892",
+    "image": " eL(CHocks)pistol"
 }, {
-	"code": "414",
-	"image": "ViNKelhake"
+    "code": "651",
+    "image": " PRiNter"
 }, {
-	"code": "656",
-	"image": "PaRaPly"
+    "code": "893",
+    "image": " LoCk för Burk"
 }, {
-	"code": "898",
-	"image": "Gul"
+    "code": "410",
+    "image": " Valfri aNiMalieprodukt"
 }, {
-	"code": "415",
-	"image": "KoNFekt"
+    "code": "652",
+    "image": " PoRTfölj"
 }, {
-	"code": "657",
-	"image": "JoRDglob"
+    "code": "894",
+    "image": " LyCKohjul"
 }, {
-	"code": "899",
-	"image": "GuCCi-väska"
+    "code": "411",
+    "image": " KaNNa"
 }, {
-	"code": "416",
-	"image": "KNoPp"
+    "code": "653",
+    "image": " PaRaBolantenn"
 }, {
-	"code": "658",
-	"image": "PRaLin"
+    "code": "895",
+    "image": " LäCka i Rör"
 }, {
-	"code": "417",
-	"image": "ViNDruvor"
+    "code": "412",
+    "image": " VaNTe"
 }, {
-	"code": "659",
-	"image": "PRiCktavla"
+    "code": "654",
+    "image": " aPRiKos (torkad)"
 }, {
-	"code": "418",
-	"image": "KNoGjärn"
+    "code": "896",
+    "image": " LaCknaftaflaska i Plast"
 }, {
-	"code": "419",
-	"image": "KNäCkebröd"
+    "code": "413",
+    "image": " ViNBärsklase"
 }, {
-	"code": "660",
-	"image": "PyJaMas"
+    "code": "655",
+    "image": " PaRFymflaska"
 }, {
-	"code": "661",
-	"image": "JaPaNmix"
+    "code": "897",
+    "image": " LCD-skärm"
 }, {
-	"code": "420",
-	"image": "VeTeMjölsförpackning"
+    "code": "414",
+    "image": " ViNKelhake"
 }, {
-	"code": "662",
-	"image": "PiPeTt"
+    "code": "656",
+    "image": " PaRaPly"
 }, {
-	"code": "421",
-	"image": "auKTioNsklubba"
+    "code": "898",
+    "image": " Gul CiGarettsnoppare"
 }, {
-	"code": "663",
-	"image": "äPPle"
+    "code": "415",
+    "image": " KoNFekt"
 }, {
-	"code": "422",
-	"image": "KoTTe"
+    "code": "657",
+    "image": " JoRDglob"
 }, {
-	"code": "664",
-	"image": "äPPelpaj"
+    "code": "899",
+    "image": " GuCCi-väska"
 }, {
-	"code": "423",
-	"image": "Vanlig"
+    "code": "416",
+    "image": " KNoPp"
 }, {
-	"code": "665",
-	"image": "PaPRika"
+    "code": "658",
+    "image": " PRaLin"
 }, {
-	"code": "424",
-	"image": "Väldig"
+    "code": "417",
+    "image": " ViNDruvor"
 }, {
-	"code": "666",
-	"image": "PePParkaka"
+    "code": "659",
+    "image": " PRiCktavla"
 }, {
-	"code": "425",
-	"image": "aKTeRsnurra"
+    "code": "418",
+    "image": " KNoGjärn"
 }, {
-	"code": "667",
-	"image": "PaJSkal"
+    "code": "419",
+    "image": " KNäCkebröd (runt)"
 }, {
-	"code": "426",
-	"image": "Vit"
+    "code": "660",
+    "image": " PyJaMas"
 }, {
-	"code": "668",
-	"image": "PaPeGoja"
+    "code": "661",
+    "image": " JaPaNmix"
 }, {
-	"code": "427",
-	"image": "ViTSippa"
+    "code": "420",
+    "image": " VeTeMjölsförpackning"
 }, {
-	"code": "669",
-	"image": "PoPCorn"
+    "code": "662",
+    "image": " PiPeTt"
 }, {
-	"code": "428",
-	"image": "ViTLök"
+    "code": "421",
+    "image": " auKTioNsklubba"
 }, {
-	"code": "429",
-	"image": "KeTChupflaska"
+    "code": "663",
+    "image": " äPPle i Brons"
 }, {
-	"code": "670",
-	"image": "JaSMintepåse"
+    "code": "422",
+    "image": " KoTTe"
 }, {
-	"code": "671",
-	"image": "Pampig"
+    "code": "664",
+    "image": " äPPelpaj med Kanel"
 }, {
-	"code": "430",
-	"image": "Vacklande"
+    "code": "423",
+    "image": " Vanlig ToBak"
 }, {
-	"code": "672",
-	"image": "PaSTa"
+    "code": "665",
+    "image": " PaPRika"
 }, {
-	"code": "431",
-	"image": "KaBiNett"
+    "code": "424",
+    "image": " Väldig HåV"
 }, {
-	"code": "673",
-	"image": "PåSkägg"
+    "code": "666",
+    "image": " PePParkaka"
 }, {
-	"code": "432",
-	"image": "Visa"
+    "code": "425",
+    "image": " aKTeRsnurra"
 }, {
-	"code": "674",
-	"image": "PiSKa"
+    "code": "667",
+    "image": " PaJSkal"
 }, {
-	"code": "433",
-	"image": "KeBaBbröd"
+    "code": "426",
+    "image": " Vit TaPetrulle"
 }, {
-	"code": "675",
-	"image": "PuDeRask"
+    "code": "668",
+    "image": " PaPeGoja"
 }, {
-	"code": "434",
-	"image": "Vit"
+    "code": "427",
+    "image": " ViTSippa"
 }, {
-	"code": "676",
-	"image": "JaSPis"
+    "code": "669",
+    "image": " PoPCorn"
 }, {
-	"code": "435",
-	"image": "ViBRator"
+    "code": "428",
+    "image": " ViTLök"
 }, {
-	"code": "677",
-	"image": "PaDDa"
+    "code": "429",
+    "image": " KeTChupflaska"
 }, {
-	"code": "436",
-	"image": "Väldig"
+    "code": "670",
+    "image": " JaSMintepåse"
 }, {
-	"code": "678",
-	"image": "PuDeL"
+    "code": "671",
+    "image": " Pampig SäNg"
 }, {
-	"code": "437",
-	"image": "Vit"
+    "code": "430",
+    "image": " Vacklande BaMbi"
 }, {
-	"code": "679",
-	"image": "PaDdel"
+    "code": "672",
+    "image": " PaSTa"
 }, {
-	"code": "438",
-	"image": "KaBeLkontakt"
+    "code": "431",
+    "image": " KaBiNett"
 }, {
-	"code": "439",
-	"image": "Vitt"
+    "code": "673",
+    "image": " PåSkägg i Brons"
 }, {
-	"code": "680",
-	"image": "PaLMblad"
+    "code": "432",
+    "image": " Visa BeTalkort"
 }, {
-	"code": "681",
-	"image": "PLaNka"
+    "code": "674",
+    "image": " PiSKa"
 }, {
-	"code": "440",
-	"image": "VaKuuMförpackning"
+    "code": "433",
+    "image": " KeBaBbröd"
 }, {
-	"code": "682",
-	"image": "PaLeTt"
+    "code": "675",
+    "image": " PuDeRask"
 }, {
-	"code": "441",
-	"image": "ViKiNgahjälm"
+    "code": "434",
+    "image": " Vit BaKlucka"
 }, {
-	"code": "683",
-	"image": "JuLBordsgrishuvud"
+    "code": "676",
+    "image": " JaSPis"
 }, {
-	"code": "200",
-	"image": "HaMMare"
+    "code": "435",
+    "image": " ViBRator"
 }, {
-	"code": "442",
-	"image": "KaKTus"
+    "code": "677",
+    "image": " PaDDa"
 }, {
-	"code": "684",
-	"image": "PoLKagris"
+    "code": "436",
+    "image": " Väldig BJörntass"
 }, {
-	"code": "201",
-	"image": "He-MaN(docka)"
+    "code": "678",
+    "image": " PuDeL"
 }, {
-	"code": "443",
-	"image": "KoKBok"
+    "code": "437",
+    "image": " Vit BaDmössa"
 }, {
-	"code": "685",
-	"image": "JäGaRschnitzel"
+    "code": "679",
+    "image": " PaDdel i Choklad"
 }, {
-	"code": "202",
-	"image": "ToMTeskägg"
+    "code": "438",
+    "image": " KaBeLkontakt"
 }, {
-	"code": "444",
-	"image": "VoVVe"
+    "code": "439",
+    "image": " Vitt BäCken"
 }, {
-	"code": "686",
-	"image": "PLoPp"
+    "code": "680",
+    "image": " PaLMblad"
 }, {
-	"code": "203",
-	"image": "ToMBolalott"
+    "code": "681",
+    "image": " PLaNka"
 }, {
-	"code": "445",
-	"image": "KaViaRtub"
+    "code": "440",
+    "image": " VaKuuMförpackning"
 }, {
-	"code": "687",
-	"image": "aPeLSinklyfta"
+    "code": "682",
+    "image": " PaLeTt"
 }, {
-	"code": "204",
-	"image": "Nedfällt"
+    "code": "441",
+    "image": " ViKiNgahjälm"
 }, {
-	"code": "446",
-	"image": "WoKPanna"
+    "code": "683",
+    "image": " JuLBordsgrishuvud"
 }, {
-	"code": "688",
-	"image": "JuLGranskula"
+    "code": "200",
+    "image": " HaMMare"
 }, {
-	"code": "205",
-	"image": "TiMeR"
+    "code": "442",
+    "image": " KaKTus"
 }, {
-	"code": "447",
-	"image": "KoKoSnöt"
+    "code": "684",
+    "image": " PoLKagris"
 }, {
-	"code": "689",
-	"image": "PLoCkmat"
+    "code": "201",
+    "image": " He-MaN(docka)"
 }, {
-	"code": "206",
-	"image": "TaMPong"
+    "code": "443",
+    "image": " KoKBok"
 }, {
-	"code": "448",
-	"image": "KaVeL"
+    "code": "685",
+    "image": " JäGaRschnitzel"
 }, {
-	"code": "207",
-	"image": "TuMStock"
+    "code": "202",
+    "image": " ToMTeskägg"
 }, {
-	"code": "449",
-	"image": "KViCksilvertermometer"
+    "code": "444",
+    "image": " VoVVe"
 }, {
-	"code": "208",
-	"image": "HiMLakropp"
+    "code": "686",
+    "image": " PLoPp (godis)"
 }, {
-	"code": "209",
-	"image": "HuMmer"
+    "code": "203",
+    "image": " ToMBolalott"
 }, {
-	"code": "690",
-	"image": "JaCkhängare"
+    "code": "445",
+    "image": " KaViaRtub"
 }, {
-	"code": "691",
-	"image": "Pin"
+    "code": "687",
+    "image": " aPeLSinklyfta"
 }, {
-	"code": "450",
-	"image": "VaRMkorv"
+    "code": "204",
+    "image": " Nedfällt MiKrofonstativ"
 }, {
-	"code": "692",
-	"image": "Jämn"
+    "code": "446",
+    "image": " WoKPanna"
 }, {
-	"code": "451",
-	"image": "(kunga)KRoNa"
+    "code": "688",
+    "image": " JuLGranskula"
 }, {
-	"code": "693",
-	"image": "Jättehård"
+    "code": "205",
+    "image": " TiMeR"
 }, {
-	"code": "210",
-	"image": "Tindrande"
+    "code": "447",
+    "image": " KoKoSnöt"
 }, {
-	"code": "452",
-	"image": "KoFoT"
+    "code": "689",
+    "image": " PLoCkmat"
 }, {
-	"code": "694",
-	"image": "Jättestarkt"
+    "code": "206",
+    "image": " TaMPong"
 }, {
-	"code": "211",
-	"image": "HoNuNg"
+    "code": "448",
+    "image": " KaVeL"
 }, {
-	"code": "453",
-	"image": "KRaBba"
+    "code": "207",
+    "image": " TuMStock"
 }, {
-	"code": "695",
-	"image": "PiCcolohatt"
+    "code": "449",
+    "image": " KViCksilvertermometer"
 }, {
-	"code": "212",
-	"image": "HaNTel"
+    "code": "208",
+    "image": " HiMLakropp"
 }, {
-	"code": "454",
-	"image": "KRoKodil"
+    "code": "209",
+    "image": " HuMmer i Choklad"
 }, {
-	"code": "696",
-	"image": "JaCkdragkedja"
+    "code": "690",
+    "image": " JaCkhängare i Marmor"
 }, {
-	"code": "213",
-	"image": "Helgjuten"
+    "code": "691",
+    "image": " Pin med rosa CaNcerband"
 }, {
-	"code": "455",
-	"image": "eKoRRE"
+    "code": "450",
+    "image": " VaRMkorv"
 }, {
-	"code": "697",
-	"image": "Påse"
+    "code": "692",
+    "image": " Jämn CHampinjonskiva"
 }, {
-	"code": "214",
-	"image": "HaNdbojor"
+    "code": "451",
+    "image": " (kunga)KRoNa"
 }, {
-	"code": "456",
-	"image": "VaRPa"
+    "code": "693",
+    "image": " Jättehård CRicketboll"
 }, {
-	"code": "698",
-	"image": "Jättestor"
+    "code": "210",
+    "image": " Tindrande NyMåne"
 }, {
-	"code": "215",
-	"image": "Tänd"
+    "code": "452",
+    "image": " KoFoT"
 }, {
-	"code": "457",
-	"image": "KöRSbär"
+    "code": "694",
+    "image": " Jättestarkt CyKellås"
 }, {
-	"code": "699",
-	"image": "PiCColaflöjt"
+    "code": "211",
+    "image": " HoNuNg"
 }, {
-	"code": "216",
-	"image": "HoNaX"
+    "code": "453",
+    "image": " KRaBba"
 }, {
-	"code": "458",
-	"image": "KoRG"
+    "code": "695",
+    "image": " PiCcolohatt i Rött"
 }, {
-	"code": "217",
-	"image": "HaNDgranat"
+    "code": "212",
+    "image": " HaNTel"
 }, {
-	"code": "459",
-	"image": "KRyCka"
+    "code": "454",
+    "image": " KRoKodil"
 }, {
-	"code": "218",
-	"image": "TuNGa"
+    "code": "696",
+    "image": " JaCkdragkedja i Järn"
 }, {
-	"code": "219",
-	"image": "Turkos"
+    "code": "213",
+    "image": " Helgjuten NoBelprismedalj"
 }, {
-	"code": "460",
-	"image": "Virkad"
+    "code": "455",
+    "image": " eKoRRE"
 }, {
-	"code": "461",
-	"image": "Krispiga"
+    "code": "697",
+    "image": " Påse Chips med Smak"
 }, {
-	"code": "220",
-	"image": "Trasigt"
+    "code": "214",
+    "image": " HaNdbojor i Brons"
 }, {
-	"code": "462",
-	"image": "VäXThus"
+    "code": "456",
+    "image": " VaRPa"
 }, {
-	"code": "221",
-	"image": "Trasig"
+    "code": "698",
+    "image": " Jättestor CLownsko"
 }, {
-	"code": "463",
-	"image": "Vanlig"
+    "code": "215",
+    "image": " Tänd NyåRssmällare"
 }, {
-	"code": "222",
-	"image": "HäTTa"
+    "code": "457",
+    "image": " KöRSbär"
 }, {
-	"code": "464",
-	"image": "KaJaK"
+    "code": "699",
+    "image": " PiCColaflöjt"
 }, {
-	"code": "223",
-	"image": "Tom"
+    "code": "216",
+    "image": " HoNaX"
 }, {
-	"code": "465",
-	"image": "KaPRis"
+    "code": "458",
+    "image": " KoRG"
 }, {
-	"code": "224",
-	"image": "Turkos"
+    "code": "217",
+    "image": " HaNDgranat"
 }, {
-	"code": "466",
-	"image": "KoPPartråd"
+    "code": "459",
+    "image": " KRyCka"
 }, {
-	"code": "225",
-	"image": "TeTRapack"
+    "code": "218",
+    "image": " TuNGa"
 }, {
-	"code": "467",
-	"image": "KePS"
+    "code": "219",
+    "image": " Turkos NyCkelpiga"
 }, {
-	"code": "226",
-	"image": "Transplanterad"
+    "code": "460",
+    "image": " Virkad JuMper"
 }, {
-	"code": "468",
-	"image": "VaXLjus"
+    "code": "461",
+    "image": " Krispiga PaNnkakor"
 }, {
-	"code": "227",
-	"image": "uTHuS"
+    "code": "220",
+    "image": " Trasigt TiMglas"
 }, {
-	"code": "469",
-	"image": "KeXChoklad"
+    "code": "462",
+    "image": " VäXThus"
 }, {
-	"code": "228",
-	"image": "TiTeLbälte"
+    "code": "221",
+    "image": " Trasig TaNdpetare"
 }, {
-	"code": "229",
-	"image": "HiTaChi"
+    "code": "463",
+    "image": " Vanlig PåBudsskylt"
 }, {
-	"code": "470",
-	"image": "KoSMonaut"
+    "code": "222",
+    "image": " HäTTa"
 }, {
-	"code": "471",
-	"image": "KeSoN"
+    "code": "464",
+    "image": " KaJaK"
 }, {
-	"code": "230",
-	"image": "Turkos"
+    "code": "223",
+    "image": " Tom TuB"
 }, {
-	"code": "472",
-	"image": "KaSTanj"
+    "code": "465",
+    "image": " KaPRis"
 }, {
-	"code": "231",
-	"image": "T-BaNeskylt"
+    "code": "224",
+    "image": " Turkos TVål"
 }, {
-	"code": "473",
-	"image": "ViDeoBand"
+    "code": "466",
+    "image": " KoPPartråd"
 }, {
-	"code": "232",
-	"image": "TiBeThalsband"
+    "code": "225",
+    "image": " TeTRapack"
 }, {
-	"code": "474",
-	"image": "ViDeoKamera"
+    "code": "467",
+    "image": " KePS"
 }, {
-	"code": "233",
-	"image": "HoBBylera"
+    "code": "226",
+    "image": " Transplanterad HJärna"
 }, {
-	"code": "475",
-	"image": "Vass"
+    "code": "468",
+    "image": " VaXLjus"
 }, {
-	"code": "234",
-	"image": "ToBaKsplanta"
+    "code": "227",
+    "image": " uTHuS"
 }, {
-	"code": "476",
-	"image": "KeDJa"
+    "code": "469",
+    "image": " KeXChoklad"
 }, {
-	"code": "235",
-	"image": "ZeBRa"
+    "code": "228",
+    "image": " TiTeLbälte (boxning)"
 }, {
-	"code": "477",
-	"image": "KaSSaapparat"
+    "code": "229",
+    "image": " HiTaChi (dvd-spelare)"
 }, {
-	"code": "236",
-	"image": "Tilltufsad"
+    "code": "470",
+    "image": " KoSMonaut"
 }, {
-	"code": "478",
-	"image": "VaSeLin"
+    "code": "471",
+    "image": " KeSoN"
 }, {
-	"code": "237",
-	"image": "Tung"
+    "code": "230",
+    "image": " Turkos BoMullstuss"
 }, {
-	"code": "479",
-	"image": "KoSaCk"
+    "code": "472",
+    "image": " KaSTanj"
 }, {
-	"code": "238",
-	"image": "TaBLettask"
+    "code": "231",
+    "image": " T-BaNeskylt"
 }, {
-	"code": "239",
-	"image": "Torkad"
+    "code": "473",
+    "image": " ViDeoBand"
 }, {
-	"code": "480",
-	"image": "(häft)KLaMmer"
+    "code": "232",
+    "image": " TiBeThalsband"
 }, {
-	"code": "481",
-	"image": "VaGN"
+    "code": "474",
+    "image": " ViDeoKamera"
 }, {
-	"code": "240",
-	"image": "Tanig"
+    "code": "233",
+    "image": " HoBBylera"
 }, {
-	"code": "482",
-	"image": "VaLThorn"
+    "code": "475",
+    "image": " Vass DaRtpil"
 }, {
-	"code": "241",
-	"image": "TViNg"
+    "code": "234",
+    "image": " ToBaKsplanta"
 }, {
-	"code": "483",
-	"image": "KLuBBa"
+    "code": "476",
+    "image": " KeDJa"
 }, {
-	"code": "000",
-	"image": "3"
+    "code": "235",
+    "image": " ZeBRa"
 }, {
-	"code": "242",
-	"image": "TaKTpinne"
+    "code": "477",
+    "image": " KaSSaapparat"
 }, {
-	"code": "484",
-	"image": "KLöVer"
+    "code": "236",
+    "image": " Tilltufsad BJörn"
 }, {
-	"code": "001",
-	"image": "aMMuNition"
+    "code": "478",
+    "image": " VaSeLin"
 }, {
-	"code": "243",
-	"image": "Tillagad"
+    "code": "237",
+    "image": " Tung BaSkagge"
 }, {
-	"code": "485",
-	"image": "KLaRinett"
+    "code": "479",
+    "image": " KoSaCk"
 }, {
-	"code": "002",
-	"image": "Mjuk"
+    "code": "238",
+    "image": " TaBLettask"
 }, {
-	"code": "244",
-	"image": "uTKiKstorn"
+    "code": "239",
+    "image": " Torkad BöCkling"
 }, {
-	"code": "486",
-	"image": "VaLP"
+    "code": "480",
+    "image": " (häft)KLaMmer"
 }, {
-	"code": "003",
-	"image": "Mjukt"
+    "code": "481",
+    "image": " VaGN"
 }, {
-	"code": "245",
-	"image": "HaVRegryn"
+    "code": "240",
+    "image": " Tanig KaMel"
 }, {
-	"code": "487",
-	"image": "KLäDnypa"
+    "code": "482",
+    "image": " VaLThorn"
 }, {
-	"code": "004",
-	"image": "Mjuk"
+    "code": "241",
+    "image": " TViNg"
 }, {
-	"code": "246",
-	"image": "TaKPanna"
+    "code": "483",
+    "image": " KLuBBa"
 }, {
-	"code": "488",
-	"image": "KuGGhjul"
+    "code": "000",
+    "image": " 3 Mässingsringar"
 }, {
-	"code": "005",
-	"image": "Magert"
+    "code": "242",
+    "image": " TaKTpinne"
 }, {
-	"code": "247",
-	"image": "TV-Spelskontroll"
+    "code": "484",
+    "image": " KLöVer"
 }, {
-	"code": "489",
-	"image": "KLaCksko"
+    "code": "001",
+    "image": " aMMuNition"
 }, {
-	"code": "006",
-	"image": "Mumsig"
+    "code": "243",
+    "image": " Tillagad KeBab"
 }, {
-	"code": "248",
-	"image": "HyVel"
+    "code": "485",
+    "image": " KLaRinett"
 }, {
-	"code": "007",
-	"image": "Maffig"
+    "code": "002",
+    "image": " Mjuk MaTta"
 }, {
-	"code": "249",
-	"image": "Tillagad"
+    "code": "244",
+    "image": " uTKiKstorn"
 }, {
-	"code": "008",
-	"image": "Mystisk"
+    "code": "486",
+    "image": " VaLP"
 }, {
-	"code": "009",
-	"image": "aMerikansk"
+    "code": "003",
+    "image": " Mjukt eMBlem"
 }, {
-	"code": "490",
-	"image": "Klassisk"
+    "code": "245",
+    "image": " HaVRegryn"
 }, {
-	"code": "491",
-	"image": "Väldiga"
+    "code": "487",
+    "image": " KLäDnypa"
 }, {
-	"code": "250",
-	"image": "TRuMpet"
+    "code": "004",
+    "image": " Mjuk MaKaron"
 }, {
-	"code": "492",
-	"image": "ViChyvatten"
+    "code": "246",
+    "image": " TaKPanna"
 }, {
-	"code": "251",
-	"image": "HeRoiN"
+    "code": "488",
+    "image": " KuGGhjul"
 }, {
-	"code": "493",
-	"image": "KyCkling"
+    "code": "005",
+    "image": " Magert MaRgarin"
 }, {
-	"code": "010",
-	"image": "MoNuMent"
+    "code": "247",
+    "image": " TV-Spelskontroll"
 }, {
-	"code": "252",
-	"image": "HäFTapparat"
+    "code": "489",
+    "image": " KLaCksko"
 }, {
-	"code": "494",
-	"image": "KiCKboard"
+    "code": "006",
+    "image": " Mumsig MaJskolv"
 }, {
-	"code": "011",
-	"image": "MaNNagryn(sgröt)"
+    "code": "248",
+    "image": " HyVel"
 }, {
-	"code": "253",
-	"image": "TRäBen"
+    "code": "007",
+    "image": " Maffig MuStasch"
 }, {
-	"code": "495",
-	"image": "aKaCioR"
+    "code": "249",
+    "image": " Tillagad KyCkling"
 }, {
-	"code": "012",
-	"image": "MaNeT"
+    "code": "008",
+    "image": " Mystisk aMuLett"
 }, {
-	"code": "254",
-	"image": "TRaKtor"
+    "code": "009",
+    "image": " aMerikansk MC"
 }, {
-	"code": "496",
-	"image": "Kvaddad"
+    "code": "490",
+    "image": " Klassisk CeMbalo"
 }, {
-	"code": "013",
-	"image": "MiNiBuss"
+    "code": "491",
+    "image": " Väldiga CouNtryboots"
 }, {
-	"code": "255",
-	"image": "TRäRam"
+    "code": "250",
+    "image": " TRuMpet"
 }, {
-	"code": "497",
-	"image": "Vita"
+    "code": "492",
+    "image": " ViChyvatten"
 }, {
-	"code": "014",
-	"image": "MuNK"
+    "code": "251",
+    "image": " HeRoiN"
 }, {
-	"code": "256",
-	"image": "HaRPa"
+    "code": "493",
+    "image": " KyCkling i Brons"
 }, {
-	"code": "498",
-	"image": "Vanlig"
+    "code": "010",
+    "image": " MoNuMent"
 }, {
-	"code": "015",
-	"image": "MiNiRäknare"
+    "code": "252",
+    "image": " HäFTapparat"
 }, {
-	"code": "257",
-	"image": "HåRDdisk"
+    "code": "494",
+    "image": " KiCKboard"
 }, {
-	"code": "499",
-	"image": "VaCCinspruta"
+    "code": "011",
+    "image": " MaNNagryn(sgröt)"
 }, {
-	"code": "016",
-	"image": "MoNoPolspel"
+    "code": "253",
+    "image": " TRäBen"
 }, {
-	"code": "258",
-	"image": "HöRLurar"
+    "code": "495",
+    "image": " aKaCioR"
 }, {
-	"code": "017",
-	"image": "MaNDel"
+    "code": "012",
+    "image": " MaNeT"
 }, {
-	"code": "259",
-	"image": "TRuCk"
+    "code": "254",
+    "image": " TRaKtor"
 }, {
-	"code": "018",
-	"image": "MuNGiga"
+    "code": "496",
+    "image": " Kvaddad CPu"
 }, {
-	"code": "019",
-	"image": "MaNiCklar"
+    "code": "013",
+    "image": " MiNiBuss"
 }, {
-	"code": "260",
-	"image": "TaXaMeter"
+    "code": "255",
+    "image": " TRäRam"
 }, {
-	"code": "261",
-	"image": "Tillknycklad"
+    "code": "497",
+    "image": " Vita CaSinomarker"
 }, {
-	"code": "020",
-	"image": "MuTter"
+    "code": "014",
+    "image": " MuNK (donut)"
 }, {
-	"code": "262",
-	"image": "TaPeTkniv"
+    "code": "256",
+    "image": " HaRPa"
 }, {
-	"code": "021",
-	"image": "MoTioNsband"
+    "code": "498",
+    "image": " Vanlig Clementin"
 }, {
-	"code": "263",
-	"image": "Tunn"
+    "code": "015",
+    "image": " MiNiRäknare"
 }, {
-	"code": "022",
-	"image": "MaTTpiska"
+    "code": "257",
+    "image": " HåRDdisk"
 }, {
-	"code": "264",
-	"image": "Turkost"
+    "code": "499",
+    "image": " VaCCinspruta"
 }, {
-	"code": "023",
-	"image": "MaTBord"
+    "code": "016",
+    "image": " MoNoPolspel"
 }, {
-	"code": "265",
-	"image": "HJäRta"
+    "code": "258",
+    "image": " HöRLurar"
 }, {
-	"code": "024",
-	"image": "MeTKrok"
+    "code": "017",
+    "image": " MaNDel"
 }, {
-	"code": "266",
-	"image": "TeJPrulle"
+    "code": "259",
+    "image": " TRuCk"
 }, {
-	"code": "025",
-	"image": "MaZaRin"
+    "code": "018",
+    "image": " MuNGiga"
 }, {
-	"code": "267",
-	"image": "HeXaeDer"
+    "code": "019",
+    "image": " MaNiCklar"
 }, {
-	"code": "026",
-	"image": "MaTJord"
+    "code": "260",
+    "image": " TaXaMeter"
 }, {
-	"code": "268",
-	"image": "TJaLk"
+    "code": "261",
+    "image": " Tillknycklad PaNTflaska"
 }, {
-	"code": "027",
-	"image": "MeTSpö"
+    "code": "020",
+    "image": " MuTter i Mässing"
 }, {
-	"code": "269",
-	"image": "Tvinnad"
+    "code": "262",
+    "image": " TaPeTkniv"
 }, {
-	"code": "028",
-	"image": "MäTGlas"
+    "code": "021",
+    "image": " MoTioNsband"
 }, {
-	"code": "029",
-	"image": "MoToCrosscykel"
+    "code": "263",
+    "image": " Tunn PuBlikation"
 }, {
-	"code": "270",
-	"image": "HuSManskost"
+    "code": "022",
+    "image": " MaTTpiska"
 }, {
-	"code": "271",
-	"image": "TiDNing"
+    "code": "264",
+    "image": " Turkost Paket"
 }, {
-	"code": "030",
-	"image": "Märklig"
+    "code": "023",
+    "image": " MaTBord"
 }, {
-	"code": "272",
-	"image": "HäSTsko"
+    "code": "265",
+    "image": " HJäRta"
 }, {
-	"code": "031",
-	"image": "Mjukt"
+    "code": "024",
+    "image": " MeTKrok"
 }, {
-	"code": "273",
-	"image": "Tillskuren"
+    "code": "266",
+    "image": " TeJPrulle"
 }, {
-	"code": "032",
-	"image": "Märklig"
+    "code": "025",
+    "image": " MaZaRin"
 }, {
-	"code": "274",
-	"image": "HuSVagn"
+    "code": "267",
+    "image": " HeXaeDer"
 }, {
-	"code": "033",
-	"image": "Mjuk"
+    "code": "026",
+    "image": " MaTJord"
 }, {
-	"code": "275",
-	"image": "HyDRofon"
+    "code": "268",
+    "image": " TJaLk"
 }, {
-	"code": "034",
-	"image": "Mycket"
+    "code": "027",
+    "image": " MeTSpö"
 }, {
-	"code": "276",
-	"image": "HaSP"
+    "code": "269",
+    "image": " Tvinnad PiCknickkorg"
 }, {
-	"code": "035",
-	"image": "eMBRyo"
+    "code": "028",
+    "image": " MäTGlas"
 }, {
-	"code": "277",
-	"image": "TaSS"
+    "code": "029",
+    "image": " MoToCrosscykel"
 }, {
-	"code": "036",
-	"image": "Mjukt"
+    "code": "270",
+    "image": " HuSManskost"
 }, {
-	"code": "278",
-	"image": "Tanig"
+    "code": "271",
+    "image": " TiDNing"
 }, {
-	"code": "037",
-	"image": "Murad"
+    "code": "030",
+    "image": " Märklig oBoe i Marmor"
 }, {
-	"code": "279",
-	"image": "HaSChpipa"
+    "code": "272",
+    "image": " HäSTsko"
 }, {
-	"code": "038",
-	"image": "aMBuLans"
+    "code": "031",
+    "image": " Mjukt BaNanskal"
 }, {
-	"code": "039",
-	"image": "eMBallage"
+    "code": "273",
+    "image": " Tillskuren iSBergssallad"
 }, {
-	"code": "280",
-	"image": "HeLiuMballong"
+    "code": "032",
+    "image": " Märklig BuTelj"
 }, {
-	"code": "281",
-	"image": "Hängande"
+    "code": "274",
+    "image": " HuSVagn"
 }, {
-	"code": "040",
-	"image": "Mindre"
+    "code": "033",
+    "image": " Mjuk Bebishaklapp"
 }, {
-	"code": "282",
-	"image": "ToaLeTtborste"
+    "code": "275",
+    "image": " HyDRofon"
 }, {
-	"code": "041",
-	"image": "oMVaNdlare"
+    "code": "034",
+    "image": " Mycket BaKpulver"
 }, {
-	"code": "283",
-	"image": "Träfärgad"
+    "code": "276",
+    "image": " HaSP"
 }, {
-	"code": "042",
-	"image": "Mastig"
+    "code": "035",
+    "image": " eMBRyo"
 }, {
-	"code": "284",
-	"image": "HeLiKopter"
+    "code": "277",
+    "image": " TaSS"
 }, {
-	"code": "043",
-	"image": "Månghövdad"
+    "code": "036",
+    "image": " Mjukt BJörkris"
 }, {
-	"code": "285",
-	"image": "HöGaFfel"
+    "code": "278",
+    "image": " Tanig DaGgmask"
 }, {
-	"code": "044",
-	"image": "MiKroprocessor"
+    "code": "037",
+    "image": " Murad aBSid"
 }, {
-	"code": "286",
-	"image": "TuLPan"
+    "code": "279",
+    "image": " HaSChpipa"
 }, {
-	"code": "045",
-	"image": "MiKRoskåp"
+    "code": "038",
+    "image": " aMBuLans"
 }, {
-	"code": "287",
-	"image": "HaLSduk"
+    "code": "039",
+    "image": " eMBallage för Choklad"
 }, {
-	"code": "046",
-	"image": "oMKoPplare"
+    "code": "280",
+    "image": " HeLiuMballong"
 }, {
-	"code": "288",
-	"image": "TaGGtråd"
+    "code": "281",
+    "image": " Hängande GuNga"
 }, {
-	"code": "047",
-	"image": "MaKaDamianötter"
+    "code": "040",
+    "image": " Mindre KaM"
 }, {
-	"code": "289",
-	"image": "Tänd"
+    "code": "282",
+    "image": " ToaLeTtborste"
 }, {
-	"code": "048",
-	"image": "Massiv"
+    "code": "041",
+    "image": " oMVaNdlare"
 }, {
-	"code": "049",
-	"image": "Mintfärgad"
+    "code": "283",
+    "image": " Träfärgad eLBas"
 }, {
-	"code": "290",
-	"image": "Tungt"
+    "code": "042",
+    "image": " Mastig KaTalog"
 }, {
-	"code": "291",
-	"image": "Tomt"
+    "code": "284",
+    "image": " HeLiKopter"
 }, {
-	"code": "050",
-	"image": "MaRMelad"
+    "code": "043",
+    "image": " Månghövdad KöBildning"
 }, {
-	"code": "292",
-	"image": "TeCHnics"
+    "code": "285",
+    "image": " HöGaFfel"
 }, {
-	"code": "051",
-	"image": "MaRiaNnekaramell"
+    "code": "044",
+    "image": " MiKroprocessor på Kretskort"
 }, {
-	"code": "293",
-	"image": "Halvdrucken"
+    "code": "286",
+    "image": " TuLPan"
 }, {
-	"code": "052",
-	"image": "MoRoT"
+    "code": "045",
+    "image": " MiKRoskåp"
 }, {
-	"code": "294",
-	"image": "HoCKeyhjälm"
+    "code": "287",
+    "image": " HaLSduk"
 }, {
-	"code": "053",
-	"image": "MuRBruk"
+    "code": "046",
+    "image": " oMKoPplare"
 }, {
-	"code": "295",
-	"image": "Het"
+    "code": "288",
+    "image": " TaGGtråd"
 }, {
-	"code": "054",
-	"image": "MoRaKniv"
+    "code": "047",
+    "image": " MaKaDamianötter"
 }, {
-	"code": "296",
-	"image": "Trekronors"
+    "code": "289",
+    "image": " Tänd LuCiakrona"
 }, {
-	"code": "055",
-	"image": "MyRoR"
+    "code": "048",
+    "image": " Massiv VaGga"
 }, {
-	"code": "297",
-	"image": "Hållbart"
+    "code": "049",
+    "image": " Mintfärgad VäCkarklocka"
 }, {
-	"code": "056",
-	"image": "MoRtel"
+    "code": "290",
+    "image": " Tungt CeMentrör"
 }, {
-	"code": "298",
-	"image": "Tänd"
+    "code": "291",
+    "image": " Tomt CeNtilitermått"
 }, {
-	"code": "057",
-	"image": "MaRSchtrumma"
+    "code": "050",
+    "image": " MaRMelad"
 }, {
-	"code": "299",
-	"image": "Tunt"
+    "code": "292",
+    "image": " TeCHnics (skivspelare)"
 }, {
-	"code": "058",
-	"image": "MaRuLk"
+    "code": "051",
+    "image": " MaRiaNnekaramell"
 }, {
-	"code": "059",
-	"image": "MeRCedesmärke"
+    "code": "293",
+    "image": " Halvdrucken CuBa-colaflaska"
 }, {
-	"code": "060",
-	"image": "Mjuk"
+    "code": "052",
+    "image": " MoRoT"
 }, {
-	"code": "061",
-	"image": "Mjuk"
+    "code": "294",
+    "image": " HoCKeyhjälm"
 }, {
-	"code": "062",
-	"image": "Mastig"
+    "code": "053",
+    "image": " MuRBruk"
 }, {
-	"code": "063",
-	"image": "MoPed"
+    "code": "295",
+    "image": " Het CuRrysås"
 }, {
-	"code": "064",
-	"image": "MJuKisdjur"
+    "code": "054",
+    "image": " MoRaKniv"
 }, {
-	"code": "065",
-	"image": "MiXeR"
+    "code": "296",
+    "image": " Trekronors CuPpokal"
 }, {
-	"code": "066",
-	"image": "MaPP"
+    "code": "055",
+    "image": " MyRoR"
 }, {
-	"code": "067",
-	"image": "MeJSel"
+    "code": "297",
+    "image": " Hållbart CD-ställ"
 }, {
-	"code": "068",
-	"image": "aMPeL"
+    "code": "056",
+    "image": " MoRtel i Järn"
 }, {
-	"code": "069",
-	"image": "MeXiCo-sombrero"
+    "code": "298",
+    "image": " Tänd CiGarett"
 }, {
-	"code": "070",
-	"image": "MeDiuMskjorta"
+    "code": "057",
+    "image": " MaRSchtrumma"
 }, {
-	"code": "071",
-	"image": "MaSoNitskiva"
+    "code": "299",
+    "image": " Tunt aCCesskort"
 }, {
-	"code": "072",
-	"image": "MiSTlur"
+    "code": "058",
+    "image": " MaRuLk"
 }, {
-	"code": "073",
-	"image": "MoSBricka"
+    "code": "059",
+    "image": " MeRCedesmärke"
 }, {
-	"code": "074",
-	"image": "MaSKeringstejp"
+    "code": "060",
+    "image": " Mjuk aXelrem av Mink"
 }, {
-	"code": "075",
-	"image": "MaDRass"
+    "code": "061",
+    "image": " Mjuk PiNgvin"
 }, {
-	"code": "076",
-	"image": "MiDJeväska"
+    "code": "062",
+    "image": " Mastig PiZzadeg"
 }, {
-	"code": "077",
-	"image": "MoSSa"
+    "code": "063",
+    "image": " MoPed i Brons"
 }, {
-	"code": "078",
-	"image": "MuSsla"
+    "code": "064",
+    "image": " MJuKisdjur"
 }, {
-	"code": "079",
-	"image": "MeDiCinburk"
+    "code": "065",
+    "image": " MiXeR"
 }, {
-	"code": "080",
-	"image": "Målad"
+    "code": "066",
+    "image": " MaPP"
 }, {
-	"code": "081",
-	"image": "MåLNing"
+    "code": "067",
+    "image": " MeJSel"
 }, {
-	"code": "082",
-	"image": "MeLiTtafilter"
+    "code": "068",
+    "image": " aMPeL"
 }, {
-	"code": "083",
-	"image": "MåLBur"
+    "code": "069",
+    "image": " MeXiCo-sombrero"
 }, {
-	"code": "084",
-	"image": "Magnifik"
+    "code": "070",
+    "image": " MeDiuMskjorta"
 }, {
-	"code": "085",
-	"image": "MåLaRfärg"
+    "code": "071",
+    "image": " MaSoNitskiva"
 }, {
-	"code": "086",
-	"image": "MuGg"
+    "code": "072",
+    "image": " MiSTlur"
 }, {
-	"code": "087",
-	"image": "MuLåSna"
+    "code": "073",
+    "image": " MoSBricka"
 }, {
-	"code": "088",
-	"image": "MyGGa"
+    "code": "074",
+    "image": " MaSKeringstejp"
 }, {
-	"code": "089",
-	"image": "Magnifik"
+    "code": "075",
+    "image": " MaDRass"
 }, {
-	"code": "090",
-	"image": "Mastig"
+    "code": "076",
+    "image": " MiDJeväska"
 }, {
-	"code": "091",
-	"image": "MaCiNtosh-dator"
+    "code": "077",
+    "image": " MoSSa"
 }, {
-	"code": "092",
-	"image": "MiCHelingubbe"
+    "code": "078",
+    "image": " MuSsla i Gjutjärn"
 }, {
-	"code": "093",
-	"image": "MC-styre"
+    "code": "079",
+    "image": " MeDiCinburk"
 }, {
-	"code": "094",
-	"image": "MaCKpålägg"
+    "code": "080",
+    "image": " Målad GuMmianka"
 }, {
-	"code": "095",
-	"image": "MiCRo-scooter"
+    "code": "081",
+    "image": " MåLNing"
 }, {
-	"code": "096",
-	"image": "MaCka"
+    "code": "082",
+    "image": " MeLiTtafilter"
 }, {
-	"code": "097",
-	"image": "MCDonalds-förpackning"
+    "code": "083",
+    "image": " MåLBur"
 }, {
-	"code": "098",
-	"image": "Mjukt"
+    "code": "084",
+    "image": " Magnifik aGaVe"
 }, {
-	"code": "099",
-	"image": "MeCCa-colaburk"
+    "code": "085",
+    "image": " MåLaRfärg"
 }, {
-	"code": "900",
-	"image": "CaMeMbertost"
+    "code": "086",
+    "image": " MuGg av Plast"
 }, {
-	"code": "901",
-	"image": "CeMeNttrappa"
+    "code": "087",
+    "image": " MuLåSna"
 }, {
-	"code": "902",
-	"image": "CoMHem-modem"
+    "code": "088",
+    "image": " MyGGa"
 }, {
-	"code": "903",
-	"image": "CyMBalstativ"
+    "code": "089",
+    "image": " Magnifik LuCka"
 }, {
-	"code": "904",
-	"image": "Chihuahua"
+    "code": "090",
+    "image": " Mastig CeMentsäck"
 }, {
-	"code": "905",
-	"image": "CaMouFlagestövel"
+    "code": "091",
+    "image": " MaCiNtosh-dator (ej laptop)"
 }, {
-	"code": "906",
-	"image": "CaMPingtält"
+    "code": "092",
+    "image": " MiCHelingubbe"
 }, {
-	"code": "907",
-	"image": "Colt"
+    "code": "093",
+    "image": " MC-styre i Brons"
 }, {
-	"code": "908",
-	"image": "CaMpingspis"
+    "code": "094",
+    "image": " MaCKpålägg"
 }, {
-	"code": "909",
-	"image": "MCdonaldsbricka"
+    "code": "095",
+    "image": " MiCRo-scooter"
 }, {
-	"code": "910",
-	"image": "Cederträtillverkad"
+    "code": "096",
+    "image": " MaCka med Potatis"
 }, {
-	"code": "911",
-	"image": "oCeaNåNgare"
+    "code": "097",
+    "image": " MCDonalds-förpackning"
 }, {
-	"code": "912",
-	"image": "CeNTilitermått"
+    "code": "098",
+    "image": " Mjukt CiGarettfilter"
 }, {
-	"code": "913",
-	"image": "Cyanfärgad"
+    "code": "099",
+    "image": " MeCCa-colaburk"
 }, {
-	"code": "914",
-	"image": "CaNon"
+    "code": "900",
+    "image": " CaMeMbertost"
 }, {
-	"code": "915",
-	"image": "Cyanlysande"
+    "code": "901",
+    "image": " CeMeNttrappa"
 }, {
-	"code": "916",
-	"image": "CeNtrifugalpump"
+    "code": "902",
+    "image": " CoMHem-modem"
 }, {
-	"code": "917",
-	"image": "CyaNiDtank"
+    "code": "903",
+    "image": " CyMBalstativ"
 }, {
-	"code": "918",
-	"image": "CoNtainer"
+    "code": "904",
+    "image": " Chihuahua i Mjuk Klädsel"
 }, {
-	"code": "919",
-	"image": "CaNCan-ben"
+    "code": "905",
+    "image": " CaMouFlagestövel"
 }, {
-	"code": "920",
-	"image": "CHaMpagnekork"
+    "code": "906",
+    "image": " CaMPingtält"
 }, {
-	"code": "921",
-	"image": "aCeToNburk"
+    "code": "907",
+    "image": " Colt MaSkingevär"
 }, {
-	"code": "922",
-	"image": "CiTTra"
+    "code": "908",
+    "image": " CaMpingspis i Guld"
 }, {
-	"code": "923",
-	"image": "yaCHt"
+    "code": "909",
+    "image": " MCdonaldsbricka i Choklad"
 }, {
-	"code": "924",
-	"image": "CHoKladbit"
+    "code": "910",
+    "image": " Cederträtillverkad NaMnskylt"
 }, {
-	"code": "925",
-	"image": "CHiFfonjé"
+    "code": "911",
+    "image": " oCeaNåNgare"
 }, {
-	"code": "926",
-	"image": "CHiPs"
+    "code": "912",
+    "image": " CeNTilitermått"
 }, {
-	"code": "927",
-	"image": "CHaSsi"
+    "code": "913",
+    "image": " Cyanfärgad NäBbmus"
 }, {
-	"code": "928",
-	"image": "CHiLipeppar"
+    "code": "914",
+    "image": " CaNon Kamera"
 }, {
-	"code": "929",
-	"image": "CHeCkhäfte"
+    "code": "915",
+    "image": " Cyanlysande eNeRgilampa"
 }, {
-	"code": "930",
-	"image": "Chic"
+    "code": "916",
+    "image": " CeNtrifugalpump i Järn"
 }, {
-	"code": "931",
-	"image": "Cyanfärgat"
+    "code": "917",
+    "image": " CyaNiDtank"
 }, {
-	"code": "932",
-	"image": "Cyanfärgad"
+    "code": "918",
+    "image": " CoNtainer för Glas"
 }, {
-	"code": "933",
-	"image": "Cyanfärgad"
+    "code": "919",
+    "image": " CaNCan-ben"
 }, {
-	"code": "934",
-	"image": "Chokladdoppad"
+    "code": "920",
+    "image": " CHaMpagnekork"
 }, {
-	"code": "935",
-	"image": "Cyanfärgad"
+    "code": "921",
+    "image": " aCeToNburk"
 }, {
-	"code": "936",
-	"image": "Cyanfärgad"
+    "code": "922",
+    "image": " CiTTra"
 }, {
-	"code": "937",
-	"image": "Cowboyhatt"
+    "code": "923",
+    "image": " yaCHt i Brons"
 }, {
-	"code": "938",
-	"image": "Cowboyboots"
+    "code": "924",
+    "image": " CHoKladbit"
 }, {
-	"code": "939",
-	"image": "Cyanfärgad"
+    "code": "925",
+    "image": " CHiFfonjé"
 }, {
-	"code": "940",
-	"image": "aCKuMulator"
+    "code": "926",
+    "image": " CHiPs"
 }, {
-	"code": "941",
-	"image": "CyKeltrampa"
+    "code": "927",
+    "image": " CHaSsi"
 }, {
-	"code": "700",
-	"image": "DaMMsugare"
+    "code": "928",
+    "image": " CHiLipeppar"
 }, {
-	"code": "942",
-	"image": "C-ViTaminbrus"
+    "code": "929",
+    "image": " CHeCkhäfte"
 }, {
-	"code": "701",
-	"image": "DiaMaNt"
+    "code": "930",
+    "image": " Chic Bägare i Metall"
 }, {
-	"code": "943",
-	"image": "CyKlophuvud"
+    "code": "931",
+    "image": " Cyanfärgat (kassett)BaNd"
 }, {
-	"code": "702",
-	"image": "SMeT"
+    "code": "932",
+    "image": " Cyanfärgad (socker)BeTa"
 }, {
-	"code": "944",
-	"image": "CyKelväxel"
+    "code": "933",
+    "image": " Cyanfärgad BeBisdress"
 }, {
-	"code": "703",
-	"image": "SaMBaplym"
+    "code": "934",
+    "image": " Chokladdoppad BiKupa"
 }, {
-	"code": "945",
-	"image": "CyKellyse"
+    "code": "935",
+    "image": " Cyanfärgad BaRstol"
 }, {
-	"code": "704",
-	"image": "SMoKing"
+    "code": "936",
+    "image": " Cyanfärgad BaJspåse"
 }, {
-	"code": "946",
-	"image": "aCKJa"
+    "code": "937",
+    "image": " Cowboyhatt i Brunt Skinn"
 }, {
-	"code": "705",
-	"image": "SMöRkniv"
+    "code": "938",
+    "image": " Cowboyboots i Brunt Läder"
 }, {
-	"code": "947",
-	"image": "CyKelstänkskärm"
+    "code": "939",
+    "image": " Cyanfärgad BaCk"
 }, {
-	"code": "706",
-	"image": "(kaffe)sump"
+    "code": "940",
+    "image": " aCKuMulator"
 }, {
-	"code": "948",
-	"image": "CyKeLkedja"
+    "code": "941",
+    "image": " CyKeltrampa i Nickel"
 }, {
-	"code": "707",
-	"image": "SyMaSkin"
+    "code": "700",
+    "image": " DaMMsugare"
 }, {
-	"code": "949",
-	"image": "CyKelsadel"
+    "code": "942",
+    "image": " C-ViTaminbrus"
 }, {
-	"code": "708",
-	"image": "SeMLa"
+    "code": "701",
+    "image": " DiaMaNt"
 }, {
-	"code": "709",
-	"image": "SMyCke"
+    "code": "943",
+    "image": " CyKlophuvud från Böcker"
 }, {
-	"code": "950",
-	"image": "CoRtisonsalva"
+    "code": "702",
+    "image": " SMeT"
 }, {
-	"code": "951",
-	"image": "CoRoNa"
+    "code": "944",
+    "image": " CyKelväxel i Koppar"
 }, {
-	"code": "710",
-	"image": "DyNaMiT"
+    "code": "703",
+    "image": " SaMBaplym"
 }, {
-	"code": "952",
-	"image": "CeRTifikat"
+    "code": "945",
+    "image": " CyKellyse i Rött"
 }, {
-	"code": "711",
-	"image": "åSNeNalle"
+    "code": "704",
+    "image": " SMoKing"
 }, {
-	"code": "953",
-	"image": "CaFéBord"
+    "code": "946",
+    "image": " aCKJa"
 }, {
-	"code": "712",
-	"image": "SyNThesizer"
+    "code": "705",
+    "image": " SMöRkniv"
 }, {
-	"code": "954",
-	"image": "CiRKelsåg"
+    "code": "947",
+    "image": " CyKelstänkskärm i Silver"
 }, {
-	"code": "713",
-	"image": "SNaBel"
+    "code": "706",
+    "image": " (kaffe)sump"
 }, {
-	"code": "955",
-	"image": "CuRRykrydda"
+    "code": "948",
+    "image": " CyKeLkedja"
 }, {
-	"code": "714",
-	"image": "DaNK"
+    "code": "707",
+    "image": " SyMaSkin"
 }, {
-	"code": "956",
-	"image": "aC-Fläkt"
+    "code": "949",
+    "image": " CyKelsadel i Choklad"
 }, {
-	"code": "715",
-	"image": "SNoRkel"
+    "code": "708",
+    "image": " SeMLa"
 }, {
-	"code": "957",
-	"image": "CaFéStol"
+    "code": "709",
+    "image": " SMyCke"
 }, {
-	"code": "716",
-	"image": "SeNaP"
+    "code": "950",
+    "image": " CoRtisonsalva i Metalltub"
 }, {
-	"code": "958",
-	"image": "CuRLingsten"
+    "code": "951",
+    "image": " CoRoNa"
 }, {
-	"code": "717",
-	"image": "SaNDhög"
+    "code": "710",
+    "image": " DyNaMiT"
 }, {
-	"code": "959",
-	"image": "CRiCketslagträ"
+    "code": "952",
+    "image": " CeRTifikat"
 }, {
-	"code": "718",
-	"image": "(vinyl)SiNGel"
+    "code": "711",
+    "image": " åSNeNalle"
 }, {
-	"code": "719",
-	"image": "SNäCka"
+    "code": "953",
+    "image": " CaFéBord"
 }, {
-	"code": "960",
-	"image": "Cyanfärgat"
+    "code": "712",
+    "image": " SyNThesizer"
 }, {
-	"code": "961",
-	"image": "Cyanfärgad"
+    "code": "954",
+    "image": " CiRKelsåg"
 }, {
-	"code": "720",
-	"image": "STaM"
+    "code": "713",
+    "image": " SNaBel"
 }, {
-	"code": "962",
-	"image": "Chokladdoppat"
+    "code": "955",
+    "image": " CuRRykrydda"
 }, {
-	"code": "721",
-	"image": "DeToNator"
+    "code": "714",
+    "image": " DaNK"
 }, {
-	"code": "963",
-	"image": "Chic"
+    "code": "956",
+    "image": " aC-Fläkt i Plast"
 }, {
-	"code": "722",
-	"image": "STaTy"
+    "code": "715",
+    "image": " SNoRkel"
 }, {
-	"code": "964",
-	"image": "Commodore"
+    "code": "957",
+    "image": " CaFéStol"
 }, {
-	"code": "723",
-	"image": "STuBbe"
+    "code": "716",
+    "image": " SeNaP"
 }, {
-	"code": "965",
-	"image": "CaJu-Frukt"
+    "code": "958",
+    "image": " CuRLingsten"
 }, {
-	"code": "724",
-	"image": "STöVel"
+    "code": "717",
+    "image": " SaNDhög"
 }, {
-	"code": "966",
-	"image": "Cyanfärgad"
+    "code": "959",
+    "image": " CRiCketslagträ"
 }, {
-	"code": "725",
-	"image": "DaToRmus"
+    "code": "718",
+    "image": " (vinyl)SiNGel"
 }, {
-	"code": "967",
-	"image": "CyPressgren"
+    "code": "719",
+    "image": " SNäCka"
 }, {
-	"code": "726",
-	"image": "STJärngossestrut"
+    "code": "960",
+    "image": " Cyanfärgat (bensin)PuMphandtag"
 }, {
-	"code": "968",
-	"image": "aCer"
+    "code": "961",
+    "image": " Cyanfärgad PiNgisboll"
 }, {
-	"code": "727",
-	"image": "STäDmopp"
+    "code": "720",
+    "image": " STaM"
 }, {
-	"code": "969",
-	"image": "Chokladdrycken"
+    "code": "962",
+    "image": " Chokladdoppat euPHonium"
 }, {
-	"code": "728",
-	"image": "SToL"
+    "code": "721",
+    "image": " DeToNator"
 }, {
-	"code": "729",
-	"image": "STiCkning"
+    "code": "963",
+    "image": " Chic aPelsinskalare i Brunt"
 }, {
-	"code": "970",
-	"image": "Cyanfärgad"
+    "code": "722",
+    "image": " STaTy"
 }, {
-	"code": "971",
-	"image": "CaSiNoroulette"
+    "code": "964",
+    "image": " Commodore 64"
 }, {
-	"code": "730",
-	"image": "SaaB"
+    "code": "723",
+    "image": " STuBbe"
 }, {
-	"code": "972",
-	"image": "CiSTern"
+    "code": "965",
+    "image": " CaJu-Frukt"
 }, {
-	"code": "731",
-	"image": "Skalad"
+    "code": "724",
+    "image": " STöVel"
 }, {
-	"code": "973",
-	"image": "Chokladdoppat"
+    "code": "966",
+    "image": " Cyanfärgad aPPle-laddare"
 }, {
-	"code": "732",
-	"image": "iSBiT"
+    "code": "725",
+    "image": " DaToRmus"
 }, {
-	"code": "974",
-	"image": "CaSio-Klocka"
+    "code": "967",
+    "image": " CyPressgren av iS"
 }, {
-	"code": "733",
-	"image": "DuBBdäck"
+    "code": "726",
+    "image": " STJärngossestrut"
 }, {
-	"code": "975",
-	"image": "CeDeRträd"
+    "code": "968",
+    "image": " aCer Projektor i Svart"
 }, {
-	"code": "734",
-	"image": "SiBylla-Kiosk"
+    "code": "727",
+    "image": " STäDmopp"
 }, {
-	"code": "976",
-	"image": "CaSPerdocka"
+    "code": "969",
+    "image": " Chokladdrycken PuCko"
 }, {
-	"code": "735",
-	"image": "iSBeRgssallad"
+    "code": "728",
+    "image": " SToL"
 }, {
-	"code": "977",
-	"image": "Cyanlysande"
+    "code": "729",
+    "image": " STiCkning"
 }, {
-	"code": "736",
-	"image": "iSBJörn"
+    "code": "970",
+    "image": " Cyanfärgad DaMask"
 }, {
-	"code": "978",
-	"image": "Cyanfärgad"
+    "code": "971",
+    "image": " CaSiNoroulette"
 }, {
-	"code": "737",
-	"image": "Delikat"
+    "code": "730",
+    "image": " SaaB Modellbil"
 }, {
-	"code": "979",
-	"image": "aCkompanjerande"
+    "code": "972",
+    "image": " CiSTern"
 }, {
-	"code": "738",
-	"image": "DiaBiLd"
+    "code": "731",
+    "image": " Skalad BaNan"
 }, {
-	"code": "739",
-	"image": "Slimmad"
+    "code": "973",
+    "image": " Chokladdoppat iSBerg"
 }, {
-	"code": "980",
-	"image": "CLeMentin"
+    "code": "732",
+    "image": " iSBiT"
 }, {
-	"code": "981",
-	"image": "CyLiNderlås"
+    "code": "974",
+    "image": " CaSio-Klocka"
 }, {
-	"code": "740",
-	"image": "SKuMgummi"
+    "code": "733",
+    "image": " DuBBdäck (för cykel)"
 }, {
-	"code": "982",
-	"image": "CLoeTtagodis"
+    "code": "975",
+    "image": " CeDeRträd"
 }, {
-	"code": "741",
-	"image": "aDVeNtsljusstake"
+    "code": "734",
+    "image": " SiBylla-Kiosk"
 }, {
-	"code": "983",
-	"image": "CeyLon-te"
+    "code": "976",
+    "image": " CaSPerdocka"
 }, {
-	"code": "500",
-	"image": "(godis)ReMMar"
+    "code": "735",
+    "image": " iSBeRgssallad"
 }, {
-	"code": "742",
-	"image": "SKaTbo"
+    "code": "977",
+    "image": " Cyanlysande DioDlampa"
 }, {
-	"code": "984",
-	"image": "CaLVados"
+    "code": "736",
+    "image": " iSBJörn"
 }, {
-	"code": "501",
-	"image": "Fryst"
+    "code": "978",
+    "image": " Cyanfärgad DaGslända"
 }, {
-	"code": "743",
-	"image": "oSkivad"
+    "code": "737",
+    "image": " Delikat BoStongurka"
 }, {
-	"code": "985",
-	"image": "CLownperuk"
+    "code": "979",
+    "image": " aCkompanjerande SäCkpipa"
 }, {
-	"code": "502",
-	"image": "aRMHävningshandtag"
+    "code": "738",
+    "image": " DiaBiLd"
 }, {
-	"code": "744",
-	"image": "SVäVare"
+    "code": "739",
+    "image": " Slimmad BaCkspegel"
 }, {
-	"code": "986",
-	"image": "CiGarettändare"
+    "code": "980",
+    "image": " CLeMentin"
 }, {
-	"code": "503",
-	"image": "aRMBand"
+    "code": "981",
+    "image": " CyLiNderlås"
 }, {
-	"code": "745",
-	"image": "SKoRpion"
+    "code": "740",
+    "image": " SKuMgummi"
 }, {
-	"code": "987",
-	"image": "CD-Spindel"
+    "code": "982",
+    "image": " CLoeTtagodis"
 }, {
-	"code": "504",
-	"image": "Funnen"
+    "code": "741",
+    "image": " aDVeNtsljusstake"
 }, {
-	"code": "746",
-	"image": "SKJorta"
+    "code": "983",
+    "image": " CeyLon-te på Burk"
 }, {
-	"code": "988",
-	"image": "CeLLuloiddocka"
+    "code": "500",
+    "image": " (godis)ReMMar"
 }, {
-	"code": "505",
-	"image": "RoMaRsandal"
+    "code": "742",
+    "image": " SKaTbo"
 }, {
-	"code": "747",
-	"image": "SKeD"
+    "code": "984",
+    "image": " CaLVados"
 }, {
-	"code": "989",
-	"image": "CeLlo"
+    "code": "501",
+    "image": " Fryst MaNdelbiskvi"
 }, {
-	"code": "506",
-	"image": "(skate)RaMP"
+    "code": "743",
+    "image": " oSkivad KeBab"
 }, {
-	"code": "748",
-	"image": "(död)SKaLle"
+    "code": "985",
+    "image": " CLownperuk i Rött"
 }, {
-	"code": "507",
-	"image": "RyMDskepp"
+    "code": "502",
+    "image": " aRMHävningshandtag"
 }, {
-	"code": "749",
-	"image": "aSK"
+    "code": "744",
+    "image": " SVäVare"
 }, {
-	"code": "508",
-	"image": "FaMiLjegravsten"
+    "code": "986",
+    "image": " CiGarettändare i Järn"
 }, {
-	"code": "509",
-	"image": "Röd"
+    "code": "503",
+    "image": " aRMBand"
 }, {
-	"code": "990",
-	"image": "Cyanfärgad"
+    "code": "745",
+    "image": " SKoRpion"
 }, {
-	"code": "991",
-	"image": "Cloettas"
+    "code": "987",
+    "image": " CD-Spindel"
 }, {
-	"code": "750",
-	"image": "DRöMfångare"
+    "code": "504",
+    "image": " Funnen MiKrofilm"
 }, {
-	"code": "992",
-	"image": "CCTv"
+    "code": "746",
+    "image": " SKJorta"
 }, {
-	"code": "751",
-	"image": "Simpel"
+    "code": "988",
+    "image": " CeLLuloiddocka"
 }, {
-	"code": "993",
-	"image": "CoCktailshaker"
+    "code": "505",
+    "image": " RoMaRsandal"
 }, {
-	"code": "510",
-	"image": "FeNa"
+    "code": "747",
+    "image": " SKeD (plast)"
 }, {
-	"code": "752",
-	"image": "DaRTpil"
+    "code": "989",
+    "image": " CeLlo i Choklad"
 }, {
-	"code": "994",
-	"image": "CoCKerspaniel"
+    "code": "506",
+    "image": " (skate)RaMP"
 }, {
-	"code": "511",
-	"image": "RöNNbär"
+    "code": "748",
+    "image": " (död)SKaLle"
 }, {
-	"code": "753",
-	"image": "SyReBehållare"
+    "code": "507",
+    "image": " RyMDskepp"
 }, {
-	"code": "995",
-	"image": "CoaChvisselpipa"
+    "code": "749",
+    "image": " aSK i Choklad"
 }, {
-	"code": "512",
-	"image": "FaNTomen"
+    "code": "508",
+    "image": " FaMiLjegravsten"
 }, {
-	"code": "754",
-	"image": "DRuVa"
+    "code": "509",
+    "image": " Röd MiCrovågsugn"
 }, {
-	"code": "996",
-	"image": "CoCktailkörsbär"
+    "code": "990",
+    "image": " Cyanfärgad CeMentbil"
 }, {
-	"code": "513",
-	"image": "ReN"
+    "code": "991",
+    "image": " Cloettas CeNterrulle"
 }, {
-	"code": "755",
-	"image": "SuRFbräda"
+    "code": "750",
+    "image": " DRöMfångare"
 }, {
-	"code": "997",
-	"image": "aCCeSskodpanel"
+    "code": "992",
+    "image": " CCTv"
 }, {
-	"code": "514",
-	"image": "FäNKål"
+    "code": "751",
+    "image": " Simpel RiNgklocka"
 }, {
-	"code": "756",
-	"image": "SiRaP"
+    "code": "993",
+    "image": " CoCktailshaker i Brons"
 }, {
-	"code": "998",
-	"image": "aCCeLerator"
+    "code": "510",
+    "image": " FeNa i Mjukplast"
 }, {
-	"code": "515",
-	"image": "ReNaR"
+    "code": "752",
+    "image": " DaRTpil"
 }, {
-	"code": "757",
-	"image": "SoRDin"
+    "code": "994",
+    "image": " CoCKerspaniel"
 }, {
-	"code": "999",
-	"image": "Cyanfärgad"
+    "code": "511",
+    "image": " RöNNbär"
 }, {
-	"code": "516",
-	"image": "FiNPutsad"
+    "code": "753",
+    "image": " SyReBehållare"
 }, {
-	"code": "758",
-	"image": "DRaGspel"
+    "code": "995",
+    "image": " CoaChvisselpipa i Rött"
 }, {
-	"code": "517",
-	"image": "FNöSke"
+    "code": "512",
+    "image": " FaNTomen"
 }, {
-	"code": "759",
-	"image": "DRiCksglas"
+    "code": "754",
+    "image": " DRuVa"
 }, {
-	"code": "518",
-	"image": "FiNGerborg"
+    "code": "996",
+    "image": " CoCktailkörsbär på Pinne"
 }, {
-	"code": "519",
-	"image": "Randig"
+    "code": "513",
+    "image": " ReN i Brons"
 }, {
-	"code": "760",
-	"image": "SJöMärke"
+    "code": "755",
+    "image": " SuRFbräda"
 }, {
-	"code": "761",
-	"image": "SPeNat"
+    "code": "997",
+    "image": " aCCeSskodpanel"
 }, {
-	"code": "520",
-	"image": "RyTMinstrunent"
+    "code": "514",
+    "image": " FäNKål"
 }, {
-	"code": "762",
-	"image": "SoPHink"
+    "code": "756",
+    "image": " SiRaP"
 }, {
-	"code": "521",
-	"image": "RiTNingsbord"
+    "code": "998",
+    "image": " aCCeLerator"
 }, {
-	"code": "763",
-	"image": "SJöBorre"
+    "code": "515",
+    "image": " ReNaR"
 }, {
-	"code": "522",
-	"image": "RaTT"
+    "code": "757",
+    "image": " SoRDin"
 }, {
-	"code": "764",
-	"image": "SoPKvast"
+    "code": "999",
+    "image": " Cyanfärgad aCCessoar"
 }, {
-	"code": "523",
-	"image": "FoTBollssko"
+    "code": "516",
+    "image": " FiNPutsad (ljusstake)"
 }, {
-	"code": "765",
-	"image": "SPaRgris"
+    "code": "758",
+    "image": " DRaGspel"
 }, {
-	"code": "524",
-	"image": "äRTVäxt"
+    "code": "517",
+    "image": " FNöSke"
 }, {
-	"code": "766",
-	"image": "SPJälsäng"
+    "code": "759",
+    "image": " DRiCksglas"
 }, {
-	"code": "525",
-	"image": "RouTeR"
+    "code": "518",
+    "image": " FiNGerborg"
 }, {
-	"code": "767",
-	"image": "SPaDe"
+    "code": "519",
+    "image": " Randig NyCkelharpa"
 }, {
-	"code": "526",
-	"image": "Rött"
+    "code": "760",
+    "image": " SJöMärke"
 }, {
-	"code": "768",
-	"image": "SPaGhetti"
+    "code": "761",
+    "image": " SPeNat"
 }, {
-	"code": "527",
-	"image": "äRTSoppa"
+    "code": "520",
+    "image": " RyTMinstrunent"
 }, {
-	"code": "769",
-	"image": "SPaCkel"
+    "code": "762",
+    "image": " SoPHink"
 }, {
-	"code": "528",
-	"image": "FoToGenlampa"
+    "code": "521",
+    "image": " RiTNingsbord"
 }, {
-	"code": "529",
-	"image": "Finslipad"
+    "code": "763",
+    "image": " SJöBorre"
 }, {
-	"code": "770",
-	"image": "DiaDeM"
+    "code": "522",
+    "image": " RaTT"
 }, {
-	"code": "771",
-	"image": "DeSiNfektionsmedel"
+    "code": "764",
+    "image": " SoPKvast"
 }, {
-	"code": "530",
-	"image": "Finjusterat"
+    "code": "523",
+    "image": " FoTBollssko"
 }, {
-	"code": "772",
-	"image": "DeSTillationsapparat"
+    "code": "765",
+    "image": " SPaRgris"
 }, {
-	"code": "531",
-	"image": "RuBiN"
+    "code": "524",
+    "image": " äRTVäxt"
 }, {
-	"code": "773",
-	"image": "SiDeBoard"
+    "code": "766",
+    "image": " SPJälsäng"
 }, {
-	"code": "532",
-	"image": "RaBaTthäfte"
+    "code": "525",
+    "image": " RouTeR"
 }, {
-	"code": "774",
-	"image": "DiSKokula"
+    "code": "767",
+    "image": " SPaDe"
 }, {
-	"code": "533",
-	"image": "Röd"
+    "code": "526",
+    "image": " Rött HJul"
 }, {
-	"code": "775",
-	"image": "DeoDoRant"
+    "code": "768",
+    "image": " SPaGhetti"
 }, {
-	"code": "534",
-	"image": "Fin"
+    "code": "527",
+    "image": " äRTSoppa"
 }, {
-	"code": "776",
-	"image": "Sylvass"
+    "code": "769",
+    "image": " SPaCkel"
 }, {
-	"code": "535",
-	"image": "FeBeRtermometer"
+    "code": "528",
+    "image": " FoToGenlampa"
 }, {
-	"code": "777",
-	"image": "SuDDgummi"
+    "code": "529",
+    "image": " Finslipad HaCka"
 }, {
-	"code": "536",
-	"image": "Rejäl"
+    "code": "770",
+    "image": " DiaDeM"
 }, {
-	"code": "778",
-	"image": "SeDeL"
+    "code": "771",
+    "image": " DeSiNfektionsmedel"
 }, {
-	"code": "537",
-	"image": "Flaska"
+    "code": "530",
+    "image": " Finjusterat iBM-kretskort"
 }, {
-	"code": "779",
-	"image": "DuSChmunstycke"
+    "code": "772",
+    "image": " DeSTillationsapparat"
 }, {
-	"code": "538",
-	"image": "Randigt"
+    "code": "531",
+    "image": " RuBiN"
 }, {
-	"code": "539",
-	"image": "aeRoBiCsskor"
+    "code": "773",
+    "image": " SiDeBoard"
 }, {
-	"code": "780",
-	"image": "Stor"
+    "code": "532",
+    "image": " RaBaTthäfte"
 }, {
-	"code": "781",
-	"image": "SLaNg"
+    "code": "774",
+    "image": " DiSKokula"
 }, {
-	"code": "540",
-	"image": "RäKMacka"
+    "code": "533",
+    "image": " Röd BoB (snowracer)"
 }, {
-	"code": "782",
-	"image": "SaLTkar"
+    "code": "775",
+    "image": " DeoDoRant"
 }, {
-	"code": "541",
-	"image": "FiKoN"
+    "code": "534",
+    "image": " Fin BoKföringspärm"
 }, {
-	"code": "783",
-	"image": "aDeLsvapensköld"
+    "code": "776",
+    "image": " Sylvass SaX"
 }, {
-	"code": "300",
-	"image": "BaMbu-Matta"
+    "code": "535",
+    "image": " FeBeRtermometer"
 }, {
-	"code": "542",
-	"image": "ReKTangel"
+    "code": "777",
+    "image": " SuDDgummi"
 }, {
-	"code": "784",
-	"image": "SLeV"
+    "code": "536",
+    "image": " Rejäl BJälke"
 }, {
-	"code": "301",
-	"image": "Brun"
+    "code": "778",
+    "image": " SeDeL"
 }, {
-	"code": "543",
-	"image": "Rubiks"
+    "code": "537",
+    "image": " Flaska med ABsolut vodka"
 }, {
-	"code": "785",
-	"image": "SuGRör"
+    "code": "779",
+    "image": " DuSChmunstycke"
 }, {
-	"code": "302",
-	"image": "Böjd"
+    "code": "538",
+    "image": " Randigt BaGage"
 }, {
-	"code": "544",
-	"image": "RaKKniv"
+    "code": "539",
+    "image": " aeRoBiCsskor"
 }, {
-	"code": "786",
-	"image": "SLäPvagn"
+    "code": "780",
+    "image": " Stor öLMage"
 }, {
-	"code": "303",
-	"image": "BoMBplan"
+    "code": "781",
+    "image": " SLaNg"
 }, {
-	"code": "545",
-	"image": "RoVoR"
+    "code": "540",
+    "image": " RäKMacka"
 }, {
-	"code": "787",
-	"image": "SLäDe"
+    "code": "782",
+    "image": " SaLTkar"
 }, {
-	"code": "304",
-	"image": "BMW-märke"
+    "code": "541",
+    "image": " FiKoN"
 }, {
-	"code": "546",
-	"image": "FiKatermos"
+    "code": "783",
+    "image": " aDeLsvapensköld i Brons"
 }, {
-	"code": "788",
-	"image": "SaLLadshuvud"
+    "code": "300",
+    "image": " BaMbu-Matta"
 }, {
-	"code": "305",
-	"image": "Bränd"
+    "code": "542",
+    "image": " ReKTangel (i trä)"
 }, {
-	"code": "547",
-	"image": "oRKiDé"
+    "code": "784",
+    "image": " SLeV"
 }, {
-	"code": "789",
-	"image": "SLiCkepinne"
+    "code": "301",
+    "image": " Brun MaNchesterkavaj"
 }, {
-	"code": "306",
-	"image": "Blått"
+    "code": "543",
+    "image": " Rubiks KuB"
 }, {
-	"code": "548",
-	"image": "RöKeLse"
+    "code": "785",
+    "image": " SuGRör"
 }, {
-	"code": "307",
-	"image": "Brunt"
+    "code": "302",
+    "image": " Böjd MaTsked"
 }, {
-	"code": "549",
-	"image": "Friterat"
+    "code": "544",
+    "image": " RaKKniv"
 }, {
-	"code": "308",
-	"image": "BoMuLlsförpackning"
+    "code": "786",
+    "image": " SLäPvagn"
 }, {
-	"code": "309",
-	"image": "Bredd"
+    "code": "303",
+    "image": " BoMBplan"
 }, {
-	"code": "790",
-	"image": "DeCimetermått"
+    "code": "545",
+    "image": " RoVoR"
 }, {
-	"code": "791",
-	"image": "SCoNes"
+    "code": "787",
+    "image": " SLäDe"
 }, {
-	"code": "550",
-	"image": "FRiMärke"
+    "code": "304",
+    "image": " BMW-märke"
 }, {
-	"code": "792",
-	"image": "SCHackpjäs"
+    "code": "546",
+    "image": " FiKatermos i Plast"
 }, {
-	"code": "551",
-	"image": "FaRaoN"
+    "code": "788",
+    "image": " SaLLadshuvud"
 }, {
-	"code": "793",
-	"image": "DeCiBelmätare"
+    "code": "305",
+    "image": " Bränd MaRäng"
 }, {
-	"code": "310",
-	"image": "Behändig"
+    "code": "547",
+    "image": " oRKiDé"
 }, {
-	"code": "552",
-	"image": "FRaktpall"
+    "code": "789",
+    "image": " SLiCkepinne"
 }, {
-	"code": "794",
-	"image": "SoCKerbit"
+    "code": "306",
+    "image": " Blått MiXerbord"
 }, {
-	"code": "311",
-	"image": "BaNaN"
+    "code": "548",
+    "image": " RöKeLse"
 }, {
-	"code": "553",
-	"image": "FöRBandslåda"
+    "code": "307",
+    "image": " Brunt MoDellflygplan"
 }, {
-	"code": "795",
-	"image": "oSCaRsstatyett"
+    "code": "549",
+    "image": " Friterat KyCklingben"
 }, {
-	"code": "312",
-	"image": "BuNTband"
+    "code": "308",
+    "image": " BoMuLlsförpackning"
 }, {
-	"code": "554",
-	"image": "FRiKadell"
+    "code": "309",
+    "image": " Bredd (knäcke-)MaCka"
 }, {
-	"code": "796",
-	"image": "SoCka"
+    "code": "790",
+    "image": " DeCimetermått (måttband)"
 }, {
-	"code": "313",
-	"image": "BeNBrott"
+    "code": "791",
+    "image": " SCoNes"
 }, {
-	"code": "555",
-	"image": "aFRoFrisyr"
+    "code": "550",
+    "image": " FRiMärke"
 }, {
-	"code": "797",
-	"image": "SäCk"
+    "code": "792",
+    "image": " SCHackpjäs"
 }, {
-	"code": "314",
-	"image": "BuNKe"
+    "code": "551",
+    "image": " FaRaoN"
 }, {
-	"code": "556",
-	"image": "FäRJa"
+    "code": "793",
+    "image": " DeCiBelmätare"
 }, {
-	"code": "798",
-	"image": "SoCiaLdemokrat-pin"
+    "code": "310",
+    "image": " Behändig NuMmerpresentatör"
 }, {
-	"code": "315",
-	"image": "Bränd"
+    "code": "552",
+    "image": " FRaktpall i Trä"
 }, {
-	"code": "557",
-	"image": "FåRSkinn"
+    "code": "794",
+    "image": " SoCKerbit"
 }, {
-	"code": "799",
-	"image": "SoCkerkaka"
+    "code": "311",
+    "image": " BaNaN"
 }, {
-	"code": "316",
-	"image": "BeNJamin"
+    "code": "553",
+    "image": " FöRBandslåda"
 }, {
-	"code": "558",
-	"image": "eiFFeLtornet"
+    "code": "795",
+    "image": " oSCaRsstatyett"
 }, {
-	"code": "317",
-	"image": "BaNDyklubba"
+    "code": "312",
+    "image": " BuNTband"
 }, {
-	"code": "559",
-	"image": "FRaCk"
+    "code": "554",
+    "image": " FRiKadell"
 }, {
-	"code": "318",
-	"image": "BöNGryta"
+    "code": "796",
+    "image": " SoCka av Järn"
 }, {
-	"code": "319",
-	"image": "Blåprickig"
+    "code": "313",
+    "image": " BeNBrott (gips)"
 }, {
-	"code": "560",
-	"image": "Röd"
+    "code": "555",
+    "image": " aFRoFrisyr"
 }, {
-	"code": "561",
-	"image": "FJuN"
+    "code": "797",
+    "image": " SäCk i Silver"
 }, {
-	"code": "320",
-	"image": "BoTeMedel"
+    "code": "314",
+    "image": " BuNKe"
 }, {
-	"code": "562",
-	"image": "RePTil"
+    "code": "556",
+    "image": " FäRJa"
 }, {
-	"code": "321",
-	"image": "BaToNg"
+    "code": "798",
+    "image": " SoCiaLdemokrat-pin"
 }, {
-	"code": "563",
-	"image": "Rader"
+    "code": "315",
+    "image": " Bränd eNeRgilampa"
 }, {
-	"code": "322",
-	"image": "BaTTeri"
+    "code": "557",
+    "image": " FåRSkinn"
 }, {
-	"code": "564",
-	"image": "Röd"
+    "code": "799",
+    "image": " SoCkerkaka i Choklad"
 }, {
-	"code": "323",
-	"image": "BiTBurger"
+    "code": "316",
+    "image": " BeNJamin syrsa"
 }, {
-	"code": "565",
-	"image": "FJäRrkontroll"
+    "code": "558",
+    "image": " eiFFeLtornet"
 }, {
-	"code": "324",
-	"image": "BaTiKlinne"
+    "code": "317",
+    "image": " BaNDyklubba"
 }, {
-	"code": "566",
-	"image": "FaXaPparat"
+    "code": "559",
+    "image": " FRaCk"
 }, {
-	"code": "325",
-	"image": "BeTaR"
+    "code": "318",
+    "image": " BöNGryta"
 }, {
-	"code": "567",
-	"image": "FJäDer"
+    "code": "319",
+    "image": " Blåprickig NyCkelpiga"
 }, {
-	"code": "326",
-	"image": "BeTJäntbricka"
+    "code": "560",
+    "image": " Röd PuMpa"
 }, {
-	"code": "568",
-	"image": "FJäLlskivling"
+    "code": "561",
+    "image": " FJuN"
 }, {
-	"code": "327",
-	"image": "BeTSel"
+    "code": "320",
+    "image": " BoTeMedel"
 }, {
-	"code": "569",
-	"image": "Röd"
+    "code": "562",
+    "image": " RePTil"
 }, {
-	"code": "328",
-	"image": "BeaTLes-LP"
+    "code": "321",
+    "image": " BaToNg"
 }, {
-	"code": "329",
-	"image": "ByTta"
+    "code": "563",
+    "image": " Rader av PuBlik"
 }, {
-	"code": "570",
-	"image": "RoSMarin"
+    "code": "322",
+    "image": " BaTTeri"
 }, {
-	"code": "571",
-	"image": "RoSeNknopp"
+    "code": "564",
+    "image": " Röd aJVar"
 }, {
-	"code": "330",
-	"image": "Bakad"
+    "code": "323",
+    "image": " BiTBurger (öl)"
 }, {
-	"code": "572",
-	"image": "FeSThatt"
+    "code": "565",
+    "image": " FJäRrkontroll"
 }, {
-	"code": "331",
-	"image": "BaBiaN"
+    "code": "324",
+    "image": " BaTiKlinne"
 }, {
-	"code": "573",
-	"image": "RaDioBil"
+    "code": "566",
+    "image": " FaXaPparat"
 }, {
-	"code": "332",
-	"image": "Brun"
+    "code": "325",
+    "image": " BeTaR"
 }, {
-	"code": "574",
-	"image": "ReSVäska"
+    "code": "567",
+    "image": " FJäDer"
 }, {
-	"code": "333",
-	"image": "BuBBla"
+    "code": "326",
+    "image": " BeTJäntbricka"
 }, {
-	"code": "575",
-	"image": "FoDRal"
+    "code": "568",
+    "image": " FJäLlskivling"
 }, {
-	"code": "334",
-	"image": "Bred"
+    "code": "327",
+    "image": " BeTSel"
 }, {
-	"code": "576",
-	"image": "RåDJur"
+    "code": "569",
+    "image": " Röd PuCk"
 }, {
-	"code": "335",
-	"image": "aBBoRre"
+    "code": "328",
+    "image": " BeaTLes-LP"
 }, {
-	"code": "577",
-	"image": "RuSSin"
+    "code": "329",
+    "image": " ByTta i Choklad"
 }, {
-	"code": "336",
-	"image": "Bastant"
+    "code": "570",
+    "image": " RoSMarin"
 }, {
-	"code": "578",
-	"image": "aeRoSoLburk"
+    "code": "571",
+    "image": " RoSeNknopp"
 }, {
-	"code": "337",
-	"image": "BeBiSleksak"
+    "code": "330",
+    "image": " Bakad Bemärkelsedagstårta"
 }, {
-	"code": "579",
-	"image": "Fint"
+    "code": "572",
+    "image": " FeSThatt"
 }, {
-	"code": "338",
-	"image": "Bredd"
+    "code": "331",
+    "image": " BaBiaN"
 }, {
-	"code": "339",
-	"image": "Bränd"
+    "code": "573",
+    "image": " RaDioBil"
 }, {
-	"code": "580",
-	"image": "FiLMjölk"
+    "code": "332",
+    "image": " Brun BeHållare"
 }, {
-	"code": "581",
-	"image": "FLiNgor"
+    "code": "574",
+    "image": " ReSVäska"
 }, {
-	"code": "340",
-	"image": "BoKMärke"
+    "code": "333",
+    "image": " BuBBla"
 }, {
-	"code": "582",
-	"image": "FLäTa"
+    "code": "575",
+    "image": " FoDRal"
 }, {
-	"code": "341",
-	"image": "Blå"
+    "code": "334",
+    "image": " Bred BaKplåt"
 }, {
-	"code": "583",
-	"image": "RuGByboll"
+    "code": "576",
+    "image": " RåDJur"
 }, {
-	"code": "100",
-	"image": "NuMMerplåt"
+    "code": "335",
+    "image": " aBBoRre"
 }, {
-	"code": "342",
-	"image": "BoKHylla"
+    "code": "577",
+    "image": " RuSSin"
 }, {
-	"code": "584",
-	"image": "FaLuKorv"
+    "code": "336",
+    "image": " Bastant BJörkstam"
 }, {
-	"code": "101",
-	"image": "NaMNbricka"
+    "code": "578",
+    "image": " aeRoSoLburk"
 }, {
-	"code": "343",
-	"image": "Böjd"
+    "code": "337",
+    "image": " BeBiSleksak"
 }, {
-	"code": "585",
-	"image": "FaLaFel"
+    "code": "579",
+    "image": " Fint SChackbräde"
 }, {
-	"code": "102",
-	"image": "iNoMHusfotboll"
+    "code": "338",
+    "image": " Bredd BaGuette"
 }, {
-	"code": "344",
-	"image": "BaKVerk"
+    "code": "339",
+    "image": " Bränd BöCkling"
 }, {
-	"code": "586",
-	"image": "FLiP-flopsandal"
+    "code": "580",
+    "image": " FiLMjölk"
 }, {
-	"code": "103",
-	"image": "iNoMBordsmotor"
+    "code": "581",
+    "image": " FLiNgor"
 }, {
-	"code": "345",
-	"image": "BoKRulle"
+    "code": "340",
+    "image": " BoKMärke"
 }, {
-	"code": "587",
-	"image": "FLaDdermus"
+    "code": "582",
+    "image": " FLäTa"
 }, {
-	"code": "104",
-	"image": "Ny"
+    "code": "341",
+    "image": " Blå KNapp"
 }, {
-	"code": "346",
-	"image": "BaKPulverburk"
+    "code": "583",
+    "image": " RuGByboll"
 }, {
-	"code": "588",
-	"image": "FåGeLskrämma"
+    "code": "100",
+    "image": " NuMMerplåt"
 }, {
-	"code": "105",
-	"image": "NyMF"
+    "code": "342",
+    "image": " BoKHylla"
 }, {
-	"code": "347",
-	"image": "aBaKuS"
+    "code": "584",
+    "image": " FaLuKorv (hel)"
 }, {
-	"code": "589",
-	"image": "FLäCkborttagningsmedel"
+    "code": "101",
+    "image": " NaMNbricka"
 }, {
-	"code": "106",
-	"image": "Nyäten"
+    "code": "343",
+    "image": " Böjd aVBitartång"
 }, {
-	"code": "348",
-	"image": "BoWLingklot"
+    "code": "585",
+    "image": " FaLaFel"
 }, {
-	"code": "107",
-	"image": "NoMaD"
+    "code": "102",
+    "image": " iNoMHusfotboll"
 }, {
-	"code": "349",
-	"image": "Benfri"
+    "code": "344",
+    "image": " BaKVerk"
 }, {
-	"code": "108",
-	"image": "aNMäLningsblankett"
+    "code": "586",
+    "image": " FLiP-flopsandal"
 }, {
-	"code": "109",
-	"image": "Nyputsad"
+    "code": "103",
+    "image": " iNoMBordsmotor"
 }, {
-	"code": "00",
-	"image": "Mask"
+    "code": "345",
+    "image": " BoKRulle"
 }, {
-	"code": "01",
-	"image": "Näsa"
+    "code": "587",
+    "image": " FLaDdermus"
 }, {
-	"code": "02",
-	"image": "Hår"
+    "code": "104",
+    "image": " Ny MiKrofon"
 }, {
-	"code": "03",
-	"image": "Bulle"
+    "code": "346",
+    "image": " BaKPulverburk"
 }, {
-	"code": "04",
-	"image": "Val"
+    "code": "588",
+    "image": " FåGeLskrämma"
 }, {
-	"code": "05",
-	"image": "Räv"
+    "code": "105",
+    "image": " NyMF"
 }, {
-	"code": "06",
-	"image": "yXa"
+    "code": "347",
+    "image": " aBaKuS"
 }, {
-	"code": "07",
-	"image": "Dörr"
+    "code": "589",
+    "image": " FLäCkborttagningsmedel"
 }, {
-	"code": "08",
-	"image": "Lök"
+    "code": "106",
+    "image": " Nyäten MaJskolv"
 }, {
-	"code": "09",
-	"image": "Cykel"
+    "code": "348",
+    "image": " BoWLingklot"
 }, {
-	"code": "590",
-	"image": "Röd"
+    "code": "107",
+    "image": " NoMaD"
 }, {
-	"code": "591",
-	"image": "RiCiNolja"
+    "code": "349",
+    "image": " Benfri KyCklingfilé"
 }, {
-	"code": "350",
-	"image": "BRoMs"
+    "code": "108",
+    "image": " aNMäLningsblankett"
 }, {
-	"code": "592",
-	"image": "Rå"
+    "code": "109",
+    "image": " Nyputsad MCdonaldsskylt"
 }, {
-	"code": "351",
-	"image": "BaRNvagn"
+    "code": "00",
+    "image": " Mask"
 }, {
-	"code": "593",
-	"image": "FiCklampa"
+    "code": "01",
+    "image": " Näsa"
 }, {
-	"code": "110",
-	"image": "aNoNyMitetsmask"
+    "code": "02",
+    "image": " Hår"
 }, {
-	"code": "352",
-	"image": "BRoTtarkänga"
+    "code": "03",
+    "image": " Bulle"
 }, {
-	"code": "594",
-	"image": "FaCKla"
+    "code": "04",
+    "image": " Val"
 }, {
-	"code": "111",
-	"image": "iNNaNmäte"
+    "code": "05",
+    "image": " Räv"
 }, {
-	"code": "353",
-	"image": "BäRBuske"
+    "code": "06",
+    "image": " yXa"
 }, {
-	"code": "595",
-	"image": "Röd"
+    "code": "07",
+    "image": " Dörr"
 }, {
-	"code": "112",
-	"image": "NiNTendo"
+    "code": "08",
+    "image": " Lök"
 }, {
-	"code": "354",
-	"image": "BaRKbåt"
+    "code": "09",
+    "image": " Cykel"
 }, {
-	"code": "596",
-	"image": "ReCePtionsklocka"
+    "code": "590",
+    "image": " Röd CeMentblandare"
 }, {
-	"code": "113",
-	"image": "iNNeBandyboll"
+    "code": "591",
+    "image": " RiCiNolja"
 }, {
-	"code": "355",
-	"image": "BoRR"
+    "code": "350",
+    "image": " BRoMs"
 }, {
-	"code": "597",
-	"image": "Ericsonmobil"
+    "code": "592",
+    "image": " Rå CHampinjon"
 }, {
-	"code": "114",
-	"image": "iNNeKudde"
+    "code": "351",
+    "image": " BaRNvagn"
 }, {
-	"code": "356",
-	"image": "BäRPlockare"
+    "code": "593",
+    "image": " FiCklampa av Brons"
 }, {
-	"code": "598",
-	"image": "Röd"
+    "code": "110",
+    "image": " aNoNyMitetsmask"
 }, {
-	"code": "115",
-	"image": "NeoNRör"
+    "code": "352",
+    "image": " BRoTtarkänga"
 }, {
-	"code": "357",
-	"image": "BoRSte"
+    "code": "594",
+    "image": " FaCKla"
 }, {
-	"code": "599",
-	"image": "Rött"
+    "code": "111",
+    "image": " iNNaNmäte"
 }, {
-	"code": "116",
-	"image": "Nyutplockad"
+    "code": "353",
+    "image": " BäRBuske"
 }, {
-	"code": "358",
-	"image": "BRöLlopstårta"
+    "code": "595",
+    "image": " Röd CeRemonikrans"
 }, {
-	"code": "117",
-	"image": "NeaNDertalare"
+    "code": "112",
+    "image": " NiNTendo"
 }, {
-	"code": "359",
-	"image": "BRoCcoli"
+    "code": "354",
+    "image": " BaRKbåt"
 }, {
-	"code": "118",
-	"image": "eNkel"
+    "code": "596",
+    "image": " ReCePtionsklocka"
 }, {
-	"code": "119",
-	"image": "Nött"
+    "code": "113",
+    "image": " iNNeBandyboll"
 }, {
-	"code": "10",
-	"image": "aNeMon"
+    "code": "355",
+    "image": " BoRR"
 }, {
-	"code": "11",
-	"image": "aNaNas"
+    "code": "597",
+    "image": " Ericsonmobil"
 }, {
-	"code": "12",
-	"image": "NöT"
+    "code": "114",
+    "image": " iNNeKudde"
 }, {
-	"code": "13",
-	"image": "NuBbe"
+    "code": "356",
+    "image": " BäRPlockare"
 }, {
-	"code": "14",
-	"image": "aNKare"
+    "code": "598",
+    "image": " Röd CLownnäsa"
 }, {
-	"code": "15",
-	"image": "NaRrmössa"
+    "code": "115",
+    "image": " NeoNRör"
 }, {
-	"code": "16",
-	"image": "NyPon"
+    "code": "357",
+    "image": " BoRSte"
 }, {
-	"code": "17",
-	"image": "NyStan"
+    "code": "599",
+    "image": " Rött CoCktailparaply"
 }, {
-	"code": "18",
-	"image": "NaGel"
+    "code": "116",
+    "image": " Nyutplockad NJure"
 }, {
-	"code": "19",
-	"image": "NyCkel"
+    "code": "358",
+    "image": " BRöLlopstårta"
 }, {
-	"code": "360",
-	"image": "Blå"
+    "code": "117",
+    "image": " NeaNDertalare"
 }, {
-	"code": "361",
-	"image": "Bruten"
+    "code": "359",
+    "image": " BRoCcoli"
 }, {
-	"code": "120",
-	"image": "Nylagad"
+    "code": "118",
+    "image": " eNkel eNGångsförpackning"
 }, {
-	"code": "362",
-	"image": "Bakad"
+    "code": "119",
+    "image": " Nött Nyckel"
 }, {
-	"code": "121",
-	"image": "aNTeNn"
+    "code": "10",
+    "image": " aNeMon"
 }, {
-	"code": "363",
-	"image": "BoXBoll"
+    "code": "11",
+    "image": " aNaNas"
 }, {
-	"code": "122",
-	"image": "NaTTduksbord"
+    "code": "12",
+    "image": " NöT"
 }, {
-	"code": "364",
-	"image": "oBJeKtiv"
+    "code": "13",
+    "image": " NuBbe"
 }, {
-	"code": "123",
-	"image": "aNTiBiotika"
+    "code": "14",
+    "image": " aNKare"
 }, {
-	"code": "365",
-	"image": "BJöRkved"
+    "code": "15",
+    "image": " NaRrmössa"
 }, {
-	"code": "124",
-	"image": "NöTKött"
+    "code": "16",
+    "image": " NyPon"
 }, {
-	"code": "366",
-	"image": "Bränd"
+    "code": "17",
+    "image": " NyStan"
 }, {
-	"code": "125",
-	"image": "eNHöRning"
+    "code": "18",
+    "image": " NaGel"
 }, {
-	"code": "367",
-	"image": "BaJS"
+    "code": "19",
+    "image": " NyCkel"
 }, {
-	"code": "126",
-	"image": "Nyplockat"
+    "code": "360",
+    "image": " Blå PuMp"
 }, {
-	"code": "368",
-	"image": "BJäLlra"
+    "code": "361",
+    "image": " Bruten BoJa"
 }, {
-	"code": "127",
-	"image": "NaZiStarmbindel"
+    "code": "120",
+    "image": " Nylagad HaMburgare"
 }, {
-	"code": "369",
-	"image": "Bastant"
+    "code": "362",
+    "image": " Bakad PoTatis"
 }, {
-	"code": "128",
-	"image": "iNHäGnad"
+    "code": "121",
+    "image": " aNTeNn"
 }, {
-	"code": "129",
-	"image": "aNTeCkningsblock"
+    "code": "363",
+    "image": " BoXBoll"
 }, {
-	"code": "20",
-	"image": "HuMla"
+    "code": "122",
+    "image": " NaTTduksbord"
 }, {
-	"code": "21",
-	"image": "HaNd"
+    "code": "364",
+    "image": " oBJeKtiv"
 }, {
-	"code": "22",
-	"image": "HaTt"
+    "code": "123",
+    "image": " aNTiBiotika"
 }, {
-	"code": "23",
-	"image": "TaBlett"
+    "code": "365",
+    "image": " BJöRkved"
 }, {
-	"code": "24",
-	"image": "TV"
+    "code": "124",
+    "image": " NöTKött"
 }, {
-	"code": "25",
-	"image": "HaRe"
+    "code": "366",
+    "image": " Bränd PeParkaka"
 }, {
-	"code": "26",
-	"image": "TuPp"
+    "code": "125",
+    "image": " eNHöRning"
 }, {
-	"code": "27",
-	"image": "HyDda"
+    "code": "367",
+    "image": " BaJS"
 }, {
-	"code": "28",
-	"image": "HaLm"
+    "code": "126",
+    "image": " Nyplockat HJortron"
 }, {
-	"code": "29",
-	"image": "TaCo"
+    "code": "368",
+    "image": " BJäLlra"
 }, {
-	"code": "370",
-	"image": "BaDMintonboll"
+    "code": "127",
+    "image": " NaZiStarmbindel"
 }, {
-	"code": "371",
-	"image": "aBSiNtsked"
+    "code": "369",
+    "image": " Bastant PaCklår"
 }, {
-	"code": "130",
-	"image": "aNtänd"
+    "code": "128",
+    "image": " iNHäGnad"
 }, {
-	"code": "372",
-	"image": "ByST"
+    "code": "129",
+    "image": " aNTeCkningsblock"
 }, {
-	"code": "131",
-	"image": "eNarmad"
+    "code": "20",
+    "image": " HuMla"
 }, {
-	"code": "373",
-	"image": "BaSeBollträ"
+    "code": "21",
+    "image": " HaNd"
 }, {
-	"code": "132",
-	"image": "Nätt"
+    "code": "22",
+    "image": " HaTt"
 }, {
-	"code": "374",
-	"image": "BaSKetkorg"
+    "code": "23",
+    "image": " TaBlett"
 }, {
-	"code": "133",
-	"image": "NäBB"
+    "code": "24",
+    "image": " TV"
 }, {
-	"code": "375",
-	"image": "BaSFiol"
+    "code": "25",
+    "image": " HaRe"
 }, {
-	"code": "134",
-	"image": "iNBaKad"
+    "code": "26",
+    "image": " TuPp"
 }, {
-	"code": "376",
-	"image": "Billig"
+    "code": "27",
+    "image": " HyDda"
 }, {
-	"code": "135",
-	"image": "eNBäR"
+    "code": "28",
+    "image": " HaLm"
 }, {
-	"code": "377",
-	"image": "BöSSa"
+    "code": "29",
+    "image": " TaCo"
 }, {
-	"code": "136",
-	"image": "iNBJudningskort"
+    "code": "370",
+    "image": " BaDMintonboll"
 }, {
-	"code": "378",
-	"image": "BaSiLika"
+    "code": "371",
+    "image": " aBSiNtsked"
 }, {
-	"code": "137",
-	"image": "Neddragen"
+    "code": "130",
+    "image": " aNtänd BoMb"
 }, {
-	"code": "379",
-	"image": "Bebott"
+    "code": "372",
+    "image": " ByST"
 }, {
-	"code": "138",
-	"image": "NoBLesse"
+    "code": "131",
+    "image": " eNarmad BaNdit"
 }, {
-	"code": "139",
-	"image": "iNkopplad"
+    "code": "373",
+    "image": " BaSeBollträ"
 }, {
-	"code": "30",
-	"image": "BoM"
+    "code": "132",
+    "image": " Nätt BH"
 }, {
-	"code": "31",
-	"image": "BeN"
+    "code": "374",
+    "image": " BaSKetkorg"
 }, {
-	"code": "32",
-	"image": "BåT"
+    "code": "133",
+    "image": " NäBB"
 }, {
-	"code": "33",
-	"image": "BeBis"
+    "code": "375",
+    "image": " BaSFiol"
 }, {
-	"code": "34",
-	"image": "BoK"
+    "code": "134",
+    "image": " iNBaKad (pizza)"
 }, {
-	"code": "35",
-	"image": "BåR"
+    "code": "376",
+    "image": " Billig aDaPter"
 }, {
-	"code": "36",
-	"image": "BoJ"
+    "code": "135",
+    "image": " eNBäR"
 }, {
-	"code": "37",
-	"image": "BaDkar"
+    "code": "377",
+    "image": " BöSSa"
 }, {
-	"code": "38",
-	"image": "BiL"
+    "code": "136",
+    "image": " iNBJudningskort"
 }, {
-	"code": "39",
-	"image": "(jul-)BoCk"
+    "code": "378",
+    "image": " BaSiLika"
 }, {
-	"code": "380",
-	"image": "BLoMkruka"
+    "code": "137",
+    "image": " Neddragen BaSker"
 }, {
-	"code": "381",
-	"image": "BiLNyckel"
+    "code": "379",
+    "image": " Bebott DoCkskåp"
 }, {
-	"code": "140",
-	"image": "Nyputsad"
+    "code": "138",
+    "image": " NoBLesse (choklad)"
 }, {
-	"code": "382",
-	"image": "BaLeTtsko"
+    "code": "139",
+    "image": " iNkopplad BaCkuphårddisk"
 }, {
-	"code": "141",
-	"image": "aNKuNge"
+    "code": "30",
+    "image": " BoM"
 }, {
-	"code": "383",
-	"image": "BLåBär"
+    "code": "31",
+    "image": " BeN (skelett)"
 }, {
-	"code": "142",
-	"image": "NeKTarin"
+    "code": "32",
+    "image": " BåT"
 }, {
-	"code": "384",
-	"image": "BLåKlint"
+    "code": "33",
+    "image": " BeBis"
 }, {
-	"code": "143",
-	"image": "iNkopplad"
+    "code": "34",
+    "image": " BoK"
 }, {
-	"code": "385",
-	"image": "BiLaR"
+    "code": "35",
+    "image": " BåR"
 }, {
-	"code": "144",
-	"image": "Nybakad"
+    "code": "36",
+    "image": " BoJ"
 }, {
-	"code": "386",
-	"image": "BLöJa"
+    "code": "37",
+    "image": " BaDkar"
 }, {
-	"code": "145",
-	"image": "eNKRona"
+    "code": "38",
+    "image": " BiL"
 }, {
-	"code": "387",
-	"image": "BLåSlampa"
+    "code": "39",
+    "image": " (jul-)BoCk"
 }, {
-	"code": "146",
-	"image": "Neonfärgad"
+    "code": "380",
+    "image": " BLoMkruka"
 }, {
-	"code": "388",
-	"image": "BaLLong"
+    "code": "381",
+    "image": " BiLNyckel"
 }, {
-	"code": "147",
-	"image": "iNKaSmycke"
+    "code": "140",
+    "image": " Nyputsad eKMöbel"
 }, {
-	"code": "389",
-	"image": "BLoCkchoklad"
+    "code": "382",
+    "image": " BaLeTtsko"
 }, {
-	"code": "148",
-	"image": "NyKLäckt"
+    "code": "141",
+    "image": " aNKuNge"
 }, {
-	"code": "149",
-	"image": "iNsmugen"
+    "code": "383",
+    "image": " BLåBär"
 }, {
-	"code": "40",
-	"image": "KiMono"
+    "code": "142",
+    "image": " NeKTarin"
 }, {
-	"code": "41",
-	"image": "KaNtarell"
+    "code": "384",
+    "image": " BLåKlint"
 }, {
-	"code": "42",
-	"image": "VaTtenmelon"
+    "code": "143",
+    "image": " iNkopplad WeBbkamera"
 }, {
-	"code": "43",
-	"image": "KaBel"
+    "code": "385",
+    "image": " BiLaR (godis-)"
 }, {
-	"code": "44",
-	"image": "KiWi"
+    "code": "144",
+    "image": " Nybakad KaKa"
 }, {
-	"code": "45",
-	"image": "KRita"
+    "code": "386",
+    "image": " BLöJa"
 }, {
-	"code": "46",
-	"image": "KeX"
+    "code": "145",
+    "image": " eNKRona"
 }, {
-	"code": "47",
-	"image": "VaS"
+    "code": "387",
+    "image": " BLåSlampa"
 }, {
-	"code": "48",
-	"image": "VåG"
+    "code": "146",
+    "image": " Neonfärgad KäPphäst"
 }, {
-	"code": "49",
-	"image": "KoCkmössa"
+    "code": "388",
+    "image": " BaLLong"
 }, {
-	"code": "390",
-	"image": "Brun"
+    "code": "147",
+    "image": " iNKaSmycke"
 }, {
-	"code": "391",
-	"image": "BaCoN"
+    "code": "389",
+    "image": " BLoCkchoklad"
 }, {
-	"code": "150",
-	"image": "iNställt"
+    "code": "148",
+    "image": " NyKLäckt (ägg)"
 }, {
-	"code": "392",
-	"image": "BaCH-peruk"
+    "code": "149",
+    "image": " iNsmugen KaCkerlacka"
 }, {
-	"code": "151",
-	"image": "Nyvärderad"
+    "code": "40",
+    "image": " KiMono"
 }, {
-	"code": "393",
-	"image": "Blå"
+    "code": "41",
+    "image": " KaNtarell"
 }, {
-	"code": "152",
-	"image": "Nedtrampad"
+    "code": "42",
+    "image": " VaTtenmelon"
 }, {
-	"code": "394",
-	"image": "BaCKhopparskidor"
+    "code": "43",
+    "image": " KaBel"
 }, {
-	"code": "153",
-	"image": "NäRBild"
+    "code": "44",
+    "image": " KiWi"
 }, {
-	"code": "395",
-	"image": "Brun"
+    "code": "45",
+    "image": " KRita"
 }, {
-	"code": "154",
-	"image": "aNaRKistflagga"
+    "code": "46",
+    "image": " KeX"
 }, {
-	"code": "396",
-	"image": "Brunrutig"
+    "code": "47",
+    "image": " VaS"
 }, {
-	"code": "155",
-	"image": "uNiFoRmsknapp"
+    "code": "48",
+    "image": " VåG"
 }, {
-	"code": "397",
-	"image": "Billig"
+    "code": "49",
+    "image": " KoCkmössa"
 }, {
-	"code": "156",
-	"image": "Naturskön"
+    "code": "390",
+    "image": " Brun CaMpingstol"
 }, {
-	"code": "398",
-	"image": "Böjd"
+    "code": "391",
+    "image": " BaCoN"
 }, {
-	"code": "157",
-	"image": "iNFöDing"
+    "code": "150",
+    "image": " iNställt aRMstöd"
 }, {
-	"code": "399",
-	"image": "Brun"
+    "code": "392",
+    "image": " BaCH-peruk"
 }, {
-	"code": "158",
-	"image": "Nystekt"
+    "code": "151",
+    "image": " Nyvärderad Ring"
 }, {
-	"code": "159",
-	"image": "Narcissus"
+    "code": "393",
+    "image": " Blå CyBermask"
 }, {
-	"code": "50",
-	"image": "RoM"
+    "code": "152",
+    "image": " Nedtrampad ReTurburk"
 }, {
-	"code": "51",
-	"image": "RuNsten"
+    "code": "394",
+    "image": " BaCKhopparskidor"
 }, {
-	"code": "52",
-	"image": "FoT"
+    "code": "153",
+    "image": " NäRBild"
 }, {
-	"code": "53",
-	"image": "RaBarber"
+    "code": "395",
+    "image": " Brun Cricketgrind"
 }, {
-	"code": "54",
-	"image": "Raket"
+    "code": "154",
+    "image": " aNaRKistflagga"
 }, {
-	"code": "55",
-	"image": "FåR"
+    "code": "396",
+    "image": " Brunrutig CaPe"
 }, {
-	"code": "56",
-	"image": "RiPa"
+    "code": "155",
+    "image": " uNiFoRmsknapp"
 }, {
-	"code": "57",
-	"image": "RaDio"
+    "code": "397",
+    "image": " Billig CD-spelare"
 }, {
-	"code": "58",
-	"image": "FiLm-rulle"
+    "code": "156",
+    "image": " Naturskön FJäril"
 }, {
-	"code": "59",
-	"image": "RaCket"
+    "code": "398",
+    "image": " Böjd CeLlofanplastrulle"
 }, {
-	"code": "160",
-	"image": "uNikt"
+    "code": "157",
+    "image": " iNFöDing"
 }, {
-	"code": "161",
-	"image": "Nedslitna"
+    "code": "399",
+    "image": " Brun aCCessoar"
 }, {
-	"code": "162",
-	"image": "Nyskivad"
+    "code": "158",
+    "image": " Nystekt FaLukorv"
 }, {
-	"code": "163",
-	"image": "iNdignerad"
+    "code": "159",
+    "image": " Narcissus (påsklilja)"
 }, {
-	"code": "164",
-	"image": "Nyslipad"
+    "code": "50",
+    "image": " RoM"
 }, {
-	"code": "165",
-	"image": "Nyslipad"
+    "code": "51",
+    "image": " RuNsten"
 }, {
-	"code": "166",
-	"image": "NaPP"
+    "code": "52",
+    "image": " FoT"
 }, {
-	"code": "167",
-	"image": "Nygräddad"
+    "code": "53",
+    "image": " RaBarber"
 }, {
-	"code": "168",
-	"image": "NeJLika"
+    "code": "54",
+    "image": " Raket (nyårs-)"
 }, {
-	"code": "169",
-	"image": "Neonfärgad"
+    "code": "55",
+    "image": " FåR"
 }, {
-	"code": "60",
-	"image": "PuMa"
+    "code": "56",
+    "image": " RiPa"
 }, {
-	"code": "61",
-	"image": "JeaNs"
+    "code": "57",
+    "image": " RaDio"
 }, {
-	"code": "62",
-	"image": "PiZza"
+    "code": "58",
+    "image": " FiLm-rulle"
 }, {
-	"code": "63",
-	"image": "JoBbarhjälm"
+    "code": "59",
+    "image": " RaCket"
 }, {
-	"code": "64",
-	"image": "JuKebox"
+    "code": "160",
+    "image": " uNikt PiMpelspö"
 }, {
-	"code": "65",
-	"image": "JoRdglob"
+    "code": "161",
+    "image": " Nedslitna JoNglerbollar"
 }, {
-	"code": "66",
-	"image": "PaPaya"
+    "code": "162",
+    "image": " Nyskivad PaTé"
 }, {
-	"code": "67",
-	"image": "PiStol"
+    "code": "163",
+    "image": " iNdignerad PöBel"
 }, {
-	"code": "68",
-	"image": "PaLm"
+    "code": "164",
+    "image": " Nyslipad JuVel"
 }, {
-	"code": "69",
-	"image": "JuiCepaket"
+    "code": "165",
+    "image": " Nyslipad JäRnspik"
 }, {
-	"code": "170",
-	"image": "NöDMyntsamling"
+    "code": "166",
+    "image": " NaPP"
 }, {
-	"code": "171",
-	"image": "aNDNingsmask"
+    "code": "167",
+    "image": " Nygräddad PuDding"
 }, {
-	"code": "172",
-	"image": "NeSTlé-kaffe"
+    "code": "168",
+    "image": " NeJLika"
 }, {
-	"code": "173",
-	"image": "Nedgången"
+    "code": "169",
+    "image": " Neonfärgad PC"
 }, {
-	"code": "174",
-	"image": "aNSiKtskräm"
+    "code": "60",
+    "image": " PuMa"
 }, {
-	"code": "175",
-	"image": "uNDeRarm"
+    "code": "61",
+    "image": " JeaNs"
 }, {
-	"code": "176",
-	"image": "aNSJovis"
+    "code": "62",
+    "image": " PiZza"
 }, {
-	"code": "177",
-	"image": "NäSDuk"
+    "code": "63",
+    "image": " JoBbarhjälm"
 }, {
-	"code": "178",
-	"image": "aNSLagstavla"
+    "code": "64",
+    "image": " JuKebox"
 }, {
-	"code": "179",
-	"image": "Naken"
+    "code": "65",
+    "image": " JoRdglob"
 }, {
-	"code": "70",
-	"image": "DoMino"
+    "code": "66",
+    "image": " PaPaya"
 }, {
-	"code": "71",
-	"image": "DiNosaurie"
+    "code": "67",
+    "image": " PiStol"
 }, {
-	"code": "72",
-	"image": "SHorts"
+    "code": "68",
+    "image": " PaLm"
 }, {
-	"code": "73",
-	"image": "DuBb-däck"
+    "code": "69",
+    "image": " JuiCepaket"
 }, {
-	"code": "74",
-	"image": "DyKare"
+    "code": "170",
+    "image": " NöDMyntsamling"
 }, {
-	"code": "75",
-	"image": "DRake"
+    "code": "171",
+    "image": " aNDNingsmask"
 }, {
-	"code": "76",
-	"image": "SPindel"
+    "code": "172",
+    "image": " NeSTlé-kaffe"
 }, {
-	"code": "77",
-	"image": "DoSa"
+    "code": "173",
+    "image": " Nedgången iSBrytare"
 }, {
-	"code": "78",
-	"image": "SåG"
+    "code": "174",
+    "image": " aNSiKtskräm"
 }, {
-	"code": "79",
-	"image": "SäCk"
+    "code": "175",
+    "image": " uNDeRarm"
 }, {
-	"code": "180",
-	"image": "åNGMaskin"
+    "code": "176",
+    "image": " aNSJovis"
 }, {
-	"code": "181",
-	"image": "NyLoNstrumpa"
+    "code": "177",
+    "image": " NäSDuk"
 }, {
-	"code": "182",
-	"image": "åNGTurbin"
+    "code": "178",
+    "image": " aNSLagstavla"
 }, {
-	"code": "183",
-	"image": "åNGBåt"
+    "code": "179",
+    "image": " Naken Docka"
 }, {
-	"code": "184",
-	"image": "iNäLVsmat"
+    "code": "70",
+    "image": " DoMino"
 }, {
-	"code": "185",
-	"image": "iNGeFära"
+    "code": "71",
+    "image": " DiNosaurie"
 }, {
-	"code": "186",
-	"image": "åNGPanna"
+    "code": "72",
+    "image": " SHorts"
 }, {
-	"code": "187",
-	"image": "NåLDyna"
+    "code": "73",
+    "image": " DuBb-däck"
 }, {
-	"code": "188",
-	"image": "NaLLe"
+    "code": "74",
+    "image": " DyKare"
 }, {
-	"code": "189",
-	"image": "Nybakad"
+    "code": "75",
+    "image": " DRake"
 }, {
-	"code": "80",
-	"image": "GeM"
+    "code": "76",
+    "image": " SPindel"
 }, {
-	"code": "81",
-	"image": "LöNnlöv"
+    "code": "77",
+    "image": " DoSa"
 }, {
-	"code": "82",
-	"image": "LaTte"
+    "code": "78",
+    "image": " SåG"
 }, {
-	"code": "83",
-	"image": "eLBas"
+    "code": "79",
+    "image": " SäCk"
 }, {
-	"code": "84",
-	"image": "oLiV"
+    "code": "180",
+    "image": " åNGMaskin"
 }, {
-	"code": "85",
-	"image": "GaRdin"
+    "code": "181",
+    "image": " NyLoNstrumpa"
 }, {
-	"code": "86",
-	"image": "LeoPardmjukisdjur"
+    "code": "182",
+    "image": " åNGTurbin"
 }, {
-	"code": "87",
-	"image": "GåS"
+    "code": "183",
+    "image": " åNGBåt"
 }, {
-	"code": "88",
-	"image": "GaLge"
+    "code": "184",
+    "image": " iNäLVsmat"
 }, {
-	"code": "89",
-	"image": "LoCktång"
+    "code": "185",
+    "image": " iNGeFära"
 }, {
-	"code": "190",
-	"image": "Nysydd"
+    "code": "186",
+    "image": " åNGPanna"
 }, {
-	"code": "191",
-	"image": "Nyplockad"
+    "code": "187",
+    "image": " NåLDyna"
 }, {
-	"code": "192",
-	"image": "Nyöppnad"
+    "code": "188",
+    "image": " NaLLe"
 }, {
-	"code": "193",
-	"image": "Nytänd"
+    "code": "189",
+    "image": " Nybakad LäCkerhet"
 }, {
-	"code": "194",
-	"image": "NyCKelknippa"
+    "code": "80",
+    "image": " GeM"
 }, {
-	"code": "195",
-	"image": "Nyuppslaget"
+    "code": "81",
+    "image": " LöNnlöv"
 }, {
-	"code": "196",
-	"image": "Nedgrävd"
+    "code": "82",
+    "image": " LaTte"
 }, {
-	"code": "197",
-	"image": "Nyöppnat"
+    "code": "83",
+    "image": " eLBas"
 }, {
-	"code": "198",
-	"image": "Nyöppnad"
+    "code": "84",
+    "image": " oLiV"
 }, {
-	"code": "199",
-	"image": "Nyöppnad"
+    "code": "85",
+    "image": " GaRdin"
 }, {
-	"code": "90",
-	"image": "CyMbal"
+    "code": "86",
+    "image": " LeoPardmjukisdjur"
 }, {
-	"code": "91",
-	"image": "CoNtainer"
+    "code": "87",
+    "image": " GåS"
 }, {
-	"code": "92",
-	"image": "CiTronskiva"
+    "code": "88",
+    "image": " GaLge"
 }, {
-	"code": "93",
-	"image": "CaBriolet"
+    "code": "89",
+    "image": " LoCktång"
 }, {
-	"code": "94",
-	"image": "CyKlopöga"
+    "code": "190",
+    "image": " Nysydd CaMouflagedräkt"
 }, {
-	"code": "95",
-	"image": "CeRat"
+    "code": "191",
+    "image": " Nyplockad CaNnabis"
 }, {
-	"code": "96",
-	"image": "CaPotasto"
+    "code": "192",
+    "image": " Nyöppnad CHampagne"
 }, {
-	"code": "97",
-	"image": "CD-skiva"
+    "code": "193",
+    "image": " Nytänd CuBacigarr"
 }, {
-	"code": "98",
-	"image": "CyLinder"
+    "code": "194",
+    "image": " NyCKelknippa"
 }, {
-	"code": "99",
-	"image": "CoCktail"
+    "code": "195",
+    "image": " Nyuppslaget CiRkustält"
+}, {
+    "code": "196",
+    "image": " Nedgrävd Cypressväxt"
+}, {
+    "code": "197",
+    "image": " Nyöppnat CD-fodral"
+}, {
+    "code": "198",
+    "image": " Nyöppnad Cigarettask"
+}, {
+    "code": "199",
+    "image": " Nyöppnad CoCa-cola"
+}, {
+    "code": "90",
+    "image": " CyMbal"
+}, {
+    "code": "91",
+    "image": " CoNtainer"
+}, {
+    "code": "92",
+    "image": " CiTronskiva"
+}, {
+    "code": "93",
+    "image": " CaBriolet"
+}, {
+    "code": "94",
+    "image": " CyKlopöga"
+}, {
+    "code": "95",
+    "image": " CeRat"
+}, {
+    "code": "96",
+    "image": " CaPotasto"
+}, {
+    "code": "97",
+    "image": " CD-skiva"
+}, {
+    "code": "98",
+    "image": " CyLinder"
+}, {
+    "code": "99",
+    "image": " CoCktail"
 }]

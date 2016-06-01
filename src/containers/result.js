@@ -22,7 +22,7 @@ class Result extends Component {
   renderImage() {
     if (this.props.images.imageUrl) {
       return (
-        <div><img src={this.props.images.imageUrl} height={100}/></div>
+        <div><img src={this.props.images.imageUrl} height={200}/></div>
       );
     } else {
       return (<div>no image</div>)
